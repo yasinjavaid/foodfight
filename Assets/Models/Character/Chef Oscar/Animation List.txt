@@ -1,0 +1,19 @@
+Chef Oscar Animation List
+Before Battle: 0-148
+Run: 150-186
+Being Hit: 188-219
+Obtain New Weapon: 221-262
+Light Melee: 264-320
+Heavy Melee: 322-388
+Reloading: 390-430
+Defending: 432-467
+Sprinting: 469-505
+Jumping: 507-569
+Ducking: 571-608
+Left Dodging: 610-646
+Right Dodging: 648-684
+Emote01: 686-730
+Emote03: 732-848
+Death: 850-905
+Revive: 910-970
+Emote02: 972-1035

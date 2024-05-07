@@ -1,0 +1,1177 @@
+fileFormatVersion: 2
+guid: 7a222aa6757c02a4dbae3883b133d18c
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      74: 2726974744093962484
+    second: Charley_Idle
+  - first:
+      74: -642519636358730747
+    second: Charley_Clenching_Fist
+  - first:
+      74: 8941564252263997503
+    second: Charley_Draw_Weapon
+  - first:
+      74: -185519906526117174
+    second: Charley_Idle_Weapon
+  - first:
+      74: -254539150850390521
+    second: Charley_Ducking
+  - first:
+      74: 3962536390808132437
+    second: Charley_Dodge_Left
+  - first:
+      74: 8110546746999852161
+    second: Charley_Dodge_Right
+  - first:
+      74: -4575618104347105004
+    second: Charley_Getting_Hit
+  - first:
+      74: 8146871833475191265
+    second: Charley_Running
+  - first:
+      74: 2339680424133723851
+    second: Charley_Sprinting
+  - first:
+      74: -227929793093589960
+    second: Charley_(Running) Take_Damage_Upper_Body_Only
+  - first:
+      74: 1288037149549439104
+    second: Charley_(Running) Shooting_Upper_Body_Only
+  - first:
+      74: 2925728130487367032
+    second: Charley_(Running) Reloading_Upper_Body_Only
+  - first:
+      74: -7747214940080669246
+    second: Charley_(Running) Ducking_START_Upper_Body_Only
+  - first:
+      74: -8087677574079625170
+    second: Charley_(Running) Ducking_LOOP_Upper_Body_Only
+  - first:
+      74: 501110117394395958
+    second: Charley_(Running) Ducking_END_Upper_Body_Only
+  - first:
+      74: -7675750549456558574
+    second: Charley_Gun_Melee_Attack
+  - first:
+      74: -6965148224049510183
+    second: Charley_Reload
+  - first:
+      74: -8892995493498642286
+    second: Charley_Jump
+  - first:
+      74: -5269809902999978173
+    second: Charley_Death
+  - first:
+      74: -8106035033928615067
+    second: Charley_Emote_01
+  - first:
+      74: -5956361615362378429
+    second: Charley_Emote_02
+  - first:
+      74: 3532896362237148409
+    second: Charley_Emote_03
+  - first:
+      74: 5640803256258840049
+    second: Charley_Obtain_New_Weapon
+  - first:
+      74: -3020646359074953436
+    second: Charley_Revive
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: "\nClip 'Charley_Idle' has import animation warnings
+      that might lower retargeting quality:\nNote: Activate translation DOF on avatar
+      to improve retargeting quality.\n\t'ORG_chest' is inbetween humanoid transforms
+      and has rotation animation that will be discarded.\n\t'ORG_eyebow_04_L' has
+      translation animation that will be discarded.\n\t'ORG_eyebow_04_R' has translation
+      animation that will be discarded.\n\nClip 'Charley_Clenching_Fist' has import
+      animation warnings that might lower retargeting quality:\nNote: Activate translation
+      DOF on avatar to improve retargeting quality.\n\t'ORG_chest' is inbetween humanoid
+      transforms and has rotation animation that will be discarded.\n\t'ORG_eyebow_04_L'
+      has translation animation that will be discarded.\n\t'ORG_eyebow_04_R' has
+      translation animation that will be discarded.\n\nClip 'Charley_Draw_Weapon'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'ORG_chest'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'Charley_Idle_Weapon' has import animation warnings that might lower retargeting
+      quality:\nNote: Activate translation DOF on avatar to improve retargeting quality.\n\t'ORG_chest'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'ORG_eyebow_04_L'
+      has translation animation that will be discarded.\n\t'ORG_eyebow_04_R' has
+      translation animation that will be discarded.\n\nClip 'Charley_Ducking' has
+      import animation warnings that might lower retargeting quality:\nNote: Activate
+      translation DOF on avatar to improve retargeting quality.\n\t'ORG_chest' is
+      inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'ORG_eyebow_04_L'
+      has translation animation that will be discarded.\n\t'ORG_eyebow_04_R' has
+      translation animation that will be discarded.\n\nClip 'Charley_Dodge_Left'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'ORG_chest'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'Charley_Dodge_Right' has import animation warnings that might lower retargeting
+      quality:\nNote: Activate translation DOF on avatar to improve retargeting quality.\n\t'ORG_chest'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'Charley_Getting_Hit' has import animation warnings that might lower retargeting
+      quality:\nNote: Activate translation DOF on avatar to improve retargeting quality.\n\t'ORG_chest'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'ORG_eyebow_04_L'
+      has translation animation that will be discarded.\n\t'ORG_eyebow_04_R' has
+      translation animation that will be discarded.\n\nClip 'Charley_Running' has
+      import animation warnings that might lower retargeting quality:\nNote: Activate
+      translation DOF on avatar to improve retargeting quality.\n\t'ORG_chest' is
+      inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'ORG_eyebow_04_L'
+      has translation animation that will be discarded.\n\t'ORG_eyebow_04_R' has
+      translation animation that will be discarded.\n\nClip 'Charley_Sprinting' has
+      import animation warnings that might lower retargeting quality:\nNote: Activate
+      translation DOF on avatar to improve retargeting quality.\n\t'ORG_chest' is
+      inbetween humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'Charley_(Running) Take_Damage_Upper_Body_Only' has import animation warnings
+      that might lower retargeting quality:\nNote: Activate translation DOF on avatar
+      to improve retargeting quality.\n\t'ORG_chest' is inbetween humanoid transforms
+      and has rotation animation that will be discarded.\n\t'ORG_eyebow_04_L' has
+      translation animation that will be discarded.\n\t'ORG_eyebow_04_R' has translation
+      animation that will be discarded.\n\nClip 'Charley_(Running) Shooting_Upper_Body_Only'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'ORG_chest'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'Charley_(Running) Reloading_Upper_Body_Only' has import animation warnings
+      that might lower retargeting quality:\nNote: Activate translation DOF on avatar
+      to improve retargeting quality.\n\t'ORG_chest' is inbetween humanoid transforms
+      and has rotation animation that will be discarded.\n\t'ORG_eyebow_04_L' has
+      translation animation that will be discarded.\n\t'ORG_eyebow_04_R' has translation
+      animation that will be discarded.\n\nClip 'Charley_(Running) Ducking_START_Upper_Body_Only'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'ORG_chest'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'ORG_eyebow_04_L'
+      has translation animation that will be discarded.\n\t'ORG_eyebow_04_R' has
+      translation animation that will be discarded.\n\nClip 'Charley_(Running) Ducking_LOOP_Upper_Body_Only'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'ORG_chest'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'ORG_eyebow_04_L'
+      has translation animation that will be discarded.\n\t'ORG_eyebow_04_R' has
+      translation animation that will be discarded.\n\nClip 'Charley_(Running) Ducking_END_Upper_Body_Only'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'ORG_chest'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'ORG_eyebow_04_L'
+      has translation animation that will be discarded.\n\t'ORG_eyebow_04_R' has
+      translation animation that will be discarded.\n\nClip 'Charley_Gun_Melee_Attack'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'ORG_chest'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'ORG_eyebow_04_L'
+      has translation animation that will be discarded.\n\t'ORG_eyebow_04_R' has
+      translation animation that will be discarded.\n\nClip 'Charley_Reload' has
+      import animation warnings that might lower retargeting quality:\nNote: Activate
+      translation DOF on avatar to improve retargeting quality.\n\t'ORG_chest' is
+      inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'ORG_eyebow_04_L'
+      has translation animation that will be discarded.\n\t'ORG_eyebow_04_R' has
+      translation animation that will be discarded.\n\nClip 'Charley_Jump' has import
+      animation warnings that might lower retargeting quality:\nNote: Activate translation
+      DOF on avatar to improve retargeting quality.\n\t'ORG_chest' is inbetween humanoid
+      transforms and has rotation animation that will be discarded.\n\nClip 'Charley_Death'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'ORG_chest'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'Charley_Emote_01' has import animation warnings that might lower retargeting
+      quality:\nNote: Activate translation DOF on avatar to improve retargeting quality.\n\t'ORG_chest'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'ORG_eyebow_04_L'
+      has translation animation that will be discarded.\n\t'ORG_eyebow_04_R' has
+      translation animation that will be discarded.\n\nClip 'Charley_Emote_02' has
+      import animation warnings that might lower retargeting quality:\nNote: Activate
+      translation DOF on avatar to improve retargeting quality.\n\t'ORG_chest' is
+      inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'ORG_eyebow_04_L'
+      has translation animation that will be discarded.\n\t'ORG_eyebow_04_R' has
+      translation animation that will be discarded.\n\nClip 'Charley_Emote_03' has
+      import animation warnings that might lower retargeting quality:\nNote: Activate
+      translation DOF on avatar to improve retargeting quality.\n\t'ORG_chest' is
+      inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'ORG_eyebow_04_L'
+      has translation animation that will be discarded.\n\t'ORG_eyebow_04_R' has
+      translation animation that will be discarded.\n\nClip 'Charley_Obtain_New_Weapon'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'ORG_chest'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'Charley_Revive' has import animation warnings that might lower retargeting
+      quality:\nNote: Activate translation DOF on avatar to improve retargeting quality.\n\t'ORG_chest'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'ORG_eyebow_04_L'
+      has translation animation that will be discarded.\n\t'ORG_eyebow_04_R' has
+      translation animation that will be discarded.\n\t'ORG_shoulder_L' has translation
+      animation that will be discarded.\n\t'ORG_elbow_L' has translation animation
+      that will be discarded.\n\t'ORG_hand_L' has translation animation that will
+      be discarded.\n\t'ORG_thumb_01_L' has translation animation that will be discarded.\n\t'ORG_thumb_02_L'
+      has translation animation that will be discarded.\n\t'ORG_thumb_03_L' has translation
+      animation that will be discarded.\n\t'ORG_f_index_01_L' has translation animation
+      that will be discarded.\n\t'ORG_f_index_02_L' has translation animation that
+      will be discarded.\n\t'ORG_f_index_03_L' has translation animation that will
+      be discarded.\n\t'ORG_f_ring_01_L' has translation animation that will be discarded.\n\t'ORG_f_ring_02_L'
+      has translation animation that will be discarded.\n\t'ORG_f_ring_03_L' has
+      translation animation that will be discarded.\n\t'ORG_f_pinky_01_L' has translation
+      animation that will be discarded.\n\t'ORG_f_pinky_02_L' has translation animation
+      that will be discarded.\n\t'ORG_f_pinky_03_L' has translation animation that
+      will be discarded.\n\t'ORG_shoulder_R' has translation animation that will
+      be discarded.\n\t'ORG_elbow_R' has translation animation that will be discarded.\n\t'ORG_hand_R'
+      has translation animation that will be discarded.\n\t'ORG_thumb_01_R' has translation
+      animation that will be discarded.\n\t'ORG_thumb_02_R' has translation animation
+      that will be discarded.\n\t'ORG_thumb_03_R' has translation animation that
+      will be discarded.\n\t'ORG_f_index_01_R' has translation animation that will
+      be discarded.\n\t'ORG_f_index_02_R' has translation animation that will be
+      discarded.\n\t'ORG_f_index_03_R' has translation animation that will be discarded.\n\t'ORG_f_ring_01_R'
+      has translation animation that will be discarded.\n\t'ORG_f_ring_02_R' has
+      translation animation that will be discarded.\n\t'ORG_f_ring_03_R' has translation
+      animation that will be discarded.\n\t'ORG_f_pinky_01_R' has translation animation
+      that will be discarded.\n\t'ORG_f_pinky_02_R' has translation animation that
+      will be discarded.\n\t'ORG_f_pinky_03_R' has translation animation that will
+      be discarded.\n"
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton:
+    - name: Charley_Animations_06-09-21(Clone)
+      parentName: 
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Main
+      parentName: Charley_Animations_06-09-21(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: jnt_offset
+      parentName: Main
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: root
+      parentName: jnt_offset
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ORG_hips
+      parentName: root
+      position: {x: 0, y: 0.04133003, z: 0.006930528}
+      rotation: {x: 0.4977257, y: -0.502264, z: -0.4977257, w: 0.5022641}
+      scale: {x: 1, y: 1, z: 1.0000002}
+    - name: ORG_spine
+      parentName: ORG_hips
+      position: {x: -0.020615598, y: 0.002370928, z: -1.3259795e-17}
+      rotation: {x: -0.7070995, y: 0.003209054, z: -0.0032091131, w: 0.70709956}
+      scale: {x: 1.0000004, y: 1.0000002, z: 1}
+    - name: ORG_chest
+      parentName: ORG_spine
+      position: {x: -0.02224774, y: 4.677772e-18, z: -0.0008065991}
+      rotation: {x: -0, y: 0.000000036205165, z: 0.7071068, w: 0.70710677}
+      scale: {x: 0.99999994, y: 1, z: 0.9999999}
+    - name: ORG_shoulder_L
+      parentName: ORG_chest
+      position: {x: -0.017036067, y: 0.0037821692, z: -0.0076236436}
+      rotation: {x: -0.0148148425, y: -0.03118586, z: -0.09675387, w: 0.9947094}
+      scale: {x: 0.99999994, y: 1, z: 1.0000002}
+    - name: ORG_elbow_L
+      parentName: ORG_shoulder_L
+      position: {x: -0.020747194, y: -0.004993114, z: 0.00010533168}
+      rotation: {x: 0.0036767488, y: 0.04523078, z: 0.08434456, w: 0.99540275}
+      scale: {x: 1.0000001, y: 0.9999999, z: 1}
+    - name: ORG_hand_L
+      parentName: ORG_elbow_L
+      position: {x: -0.025003742, y: -0.0017180205, z: 0.0007544376}
+      rotation: {x: -0.11672098, y: 0.98801315, z: -0.07825164, w: -0.06389818}
+      scale: {x: 1.0000004, y: 1.0000002, z: 1.0000004}
+    - name: ORG_thumb_01_L
+      parentName: ORG_hand_L
+      position: {x: 0.0053965244, y: -0.0024251211, z: -0.0042373505}
+      rotation: {x: 0.5698214, y: -0.2736808, z: -0.03617726, w: -0.7740114}
+      scale: {x: 1.0000005, y: 1.0000005, z: 1.0000004}
+    - name: ORG_thumb_02_L
+      parentName: ORG_thumb_01_L
+      position: {x: 0.0053430633, y: 0.0018766156, z: 0.0007157831}
+      rotation: {x: 0.0018006854, y: -0.06509929, z: 0.1377217, w: 0.98832774}
+      scale: {x: 1.0000004, y: 1.0000001, z: 1.0000001}
+    - name: ORG_thumb_03_L
+      parentName: ORG_thumb_02_L
+      position: {x: 0.005605629, y: 0.000003012421, z: -0.00017207595}
+      rotation: {x: 0.000000118045136, y: 0.00000003259629, z: 0.000000047595677,
+        w: 1}
+      scale: {x: 1.0000002, y: 1, z: 1.0000005}
+    - name: ORG_thumb_04_L
+      parentName: ORG_thumb_03_L
+      position: {x: 0.0064244685, y: 0.0000031581203, z: -0.00021568807}
+      rotation: {x: 0.6489204, y: 0.0076353317, z: -0.0034603854, w: 0.76081014}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ORG_f_index_01_L
+      parentName: ORG_hand_L
+      position: {x: 0.013665832, y: 0.000993591, z: -0.0044991206}
+      rotation: {x: -0.06684914, y: -0.010478378, z: 0.060851097, w: 0.99585074}
+      scale: {x: 1.0000004, y: 0.9999999, z: 1.0000007}
+    - name: ORG_f_index_02_L
+      parentName: ORG_f_index_01_L
+      position: {x: 0.005037235, y: -0.00005282236, z: 0.00014433428}
+      rotation: {x: -0.017398633, y: -0.023542684, z: -0.058001474, w: 0.99788725}
+      scale: {x: 1.0000002, y: 0.9999999, z: 0.99999994}
+    - name: ORG_f_index_03_L
+      parentName: ORG_f_index_02_L
+      position: {x: 0.004598759, y: 0.0001801543, z: -0.00023453737}
+      rotation: {x: -0.000000020489095, y: -0, z: -0.00000014627584, w: 1}
+      scale: {x: 1.0000002, y: 1.0000001, z: 1}
+    - name: ORG_f_index_04_L
+      parentName: ORG_f_index_03_L
+      position: {x: 0.0058067697, y: 0.00022751864, z: -0.0002961402}
+      rotation: {x: -0.013282729, y: 0.025136901, z: 0.015079079, w: 0.99948204}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ORG_f_ring_01_L
+      parentName: ORG_hand_L
+      position: {x: 0.013691614, y: 0.001376028, z: 0.0015927141}
+      rotation: {x: -0.009031944, y: -0.09251248, z: 0.09298262, w: 0.9913194}
+      scale: {x: 1.0000006, y: 1.0000004, z: 1.000001}
+    - name: ORG_f_ring_02_L
+      parentName: ORG_f_ring_01_L
+      position: {x: 0.005428609, y: -0.00059540896, z: -0.00034694283}
+      rotation: {x: 0.033947088, y: -0.014106418, z: 0.006817752, w: 0.9993009}
+      scale: {x: 1.0000002, y: 1, z: 1.0000005}
+    - name: ORG_f_ring_03_L
+      parentName: ORG_f_ring_02_L
+      position: {x: 0.00460175, y: -0.0005290652, z: -0.000022733222}
+      rotation: {x: 0.00055579434, y: -0.00006599442, z: -0.036119673, w: 0.9993474}
+      scale: {x: 0.9999998, y: 1.0000001, z: 0.99999994}
+    - name: ORG_f_ring_04_L
+      parentName: ORG_f_ring_03_L
+      position: {x: 0.0047125136, y: -0.0005417832, z: -0.000023283666}
+      rotation: {x: 0.018860396, y: -0.006216638, z: -0.15697324, w: 0.9874032}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ORG_f_pinky_01_L
+      parentName: ORG_hand_L
+      position: {x: 0.011391887, y: -0.00052964734, z: 0.0059599644}
+      rotation: {x: 0.1027609, y: -0.109853275, z: 0.080552064, w: 0.9853344}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1.0000007}
+    - name: ORG_f_pinky_02_L
+      parentName: ORG_f_pinky_01_L
+      position: {x: 0.003952572, y: -0.00021492294, z: -0.00010997496}
+      rotation: {x: 0.018245306, y: -0.01245328, z: -0.023056863, w: 0.9994901}
+      scale: {x: 0.99999994, y: 1.0000002, z: 1.0000002}
+    - name: ORG_f_pinky_03_L
+      parentName: ORG_f_pinky_02_L
+      position: {x: 0.004432832, y: -0.0002583696, z: 0.00006506517}
+      rotation: {x: -0, y: -0.000000031664964, z: -0.000000055239063, w: 1}
+      scale: {x: 1.0000004, y: 1, z: 1.0000002}
+    - name: ORG_f_pinky_04_L
+      parentName: ORG_f_pinky_03_L
+      position: {x: 0.004339547, y: -0.000304898, z: 0.00007672313}
+      rotation: {x: -0.005791591, y: -0.013869478, z: -0.042312235, w: 0.9989914}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ORG_shoulder_R
+      parentName: ORG_chest
+      position: {x: 0.017036073, y: 0.0037821352, z: -0.0076236483}
+      rotation: {x: 0.9947094, y: 0.09675395, z: -0.031185348, w: 0.01481485}
+      scale: {x: 1, y: 1.0000005, z: 1.0000005}
+    - name: ORG_elbow_R
+      parentName: ORG_shoulder_R
+      position: {x: 0.020747153, y: 0.0049931044, z: -0.00010530967}
+      rotation: {x: 0.0036768923, y: 0.04522983, z: 0.08434373, w: 0.99540293}
+      scale: {x: 0.9999999, y: 1.0000004, z: 1.0000006}
+    - name: ORG_hand_R
+      parentName: ORG_elbow_R
+      position: {x: 0.025003744, y: 0.0017180515, z: -0.0007544477}
+      rotation: {x: -0.11672104, y: 0.98801315, z: -0.07825168, w: -0.063898146}
+      scale: {x: 0.99999976, y: 1, z: 0.9999998}
+    - name: ORG_thumb_01_R
+      parentName: ORG_hand_R
+      position: {x: -0.0053965095, y: 0.0024250576, z: 0.0042373785}
+      rotation: {x: -0.56982183, y: 0.27368262, z: 0.036177486, w: 0.7740104}
+      scale: {x: 0.99999994, y: 0.9999998, z: 1.0000001}
+    - name: ORG_thumb_02_R
+      parentName: ORG_thumb_01_R
+      position: {x: -0.005343074, y: -0.001876603, z: -0.00071579014}
+      rotation: {x: 0.0018021454, y: -0.06510273, z: 0.1377191, w: 0.9883278}
+      scale: {x: 1.0000002, y: 1.0000005, z: 1.0000001}
+    - name: ORG_thumb_03_R
+      parentName: ORG_thumb_02_R
+      position: {x: -0.005605632, y: -0.0000030340163, z: 0.00017209002}
+      rotation: {x: 0.000000062631436, y: -0.000000087544315, z: -0.000000028499922,
+        w: 1}
+      scale: {x: 1.0000002, y: 1.0000004, z: 1.0000002}
+    - name: ORG_thumb_04_R
+      parentName: ORG_thumb_03_R
+      position: {x: -0.006424515, y: -0.0000030936096, z: 0.00021572328}
+      rotation: {x: 0.6489204, y: 0.0076353317, z: -0.0034603854, w: 0.76081014}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ORG_f_index_01_R
+      parentName: ORG_hand_R
+      position: {x: -0.0136659015, y: -0.000993636, z: 0.0044991234}
+      rotation: {x: -0.06684896, y: -0.010478082, z: 0.06084938, w: 0.99585074}
+      scale: {x: 0.9999999, y: 1.0000001, z: 0.9999998}
+    - name: ORG_f_index_02_R
+      parentName: ORG_f_index_01_R
+      position: {x: -0.0050372137, y: 0.00005280576, z: -0.00014432712}
+      rotation: {x: -0.017398456, y: -0.023543512, z: -0.05800095, w: 0.99788725}
+      scale: {x: 1.0000002, y: 1, z: 1}
+    - name: ORG_f_index_03_R
+      parentName: ORG_f_index_02_R
+      position: {x: -0.0045987624, y: -0.00018015326, z: 0.0002345413}
+      rotation: {x: 0.0000000037252899, y: -0.00000004656612, z: 0.0000001224398,
+        w: 1}
+      scale: {x: 1, y: 1.0000002, z: 1}
+    - name: ORG_f_index_04_R
+      parentName: ORG_f_index_03_R
+      position: {x: -0.005806745, y: -0.00022754609, z: 0.00029614143}
+      rotation: {x: -0.013282729, y: 0.025136901, z: 0.015079079, w: 0.99948204}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ORG_f_ring_01_R
+      parentName: ORG_hand_R
+      position: {x: -0.013691619, y: -0.0013760877, z: -0.0015927053}
+      rotation: {x: -0.009032968, y: -0.092511095, z: 0.09298895, w: 0.99131894}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1}
+    - name: ORG_f_ring_02_R
+      parentName: ORG_f_ring_01_R
+      position: {x: -0.0054286276, y: 0.0005954904, z: 0.00034693402}
+      rotation: {x: 0.033946704, y: -0.014107927, z: 0.0068119895, w: 0.99930084}
+      scale: {x: 1.0000002, y: 1.0000004, z: 1}
+    - name: ORG_f_ring_03_R
+      parentName: ORG_f_ring_02_R
+      position: {x: -0.004601798, y: 0.0005290033, z: 0.000022742992}
+      rotation: {x: 0.0005561967, y: -0.00006476973, z: -0.03611089, w: 0.9993476}
+      scale: {x: 1, y: 1.0000002, z: 1}
+    - name: ORG_f_ring_04_R
+      parentName: ORG_f_ring_03_R
+      position: {x: -0.0047124857, y: 0.0005417873, z: 0.000023291559}
+      rotation: {x: 0.018860396, y: -0.006216638, z: -0.15697324, w: 0.9874032}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ORG_f_pinky_01_R
+      parentName: ORG_hand_R
+      position: {x: -0.011391941, y: 0.0005296334, z: -0.005960001}
+      rotation: {x: 0.1027608, y: -0.109852575, z: 0.08055186, w: 0.98533446}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1}
+    - name: ORG_f_pinky_02_R
+      parentName: ORG_f_pinky_01_R
+      position: {x: -0.003952555, y: 0.00021491635, z: 0.00010997336}
+      rotation: {x: 0.018245468, y: -0.012452608, z: -0.023054227, w: 0.9994902}
+      scale: {x: 1.0000006, y: 1.0000002, z: 0.99999994}
+    - name: ORG_f_pinky_03_R
+      parentName: ORG_f_pinky_02_R
+      position: {x: -0.004432805, y: 0.000258438, z: -0.00006505846}
+      rotation: {x: 0.000000014901159, y: 0.000000014901159, z: 0.0000000281434, w: 1}
+      scale: {x: 0.9999998, y: 0.99999994, z: 0.99999994}
+    - name: ORG_f_pinky_04_R
+      parentName: ORG_f_pinky_03_R
+      position: {x: -0.004339496, y: 0.00030488128, z: -0.000076670214}
+      rotation: {x: -0.005791591, y: -0.013869478, z: -0.042312235, w: 0.9989914}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ORG_neck
+      parentName: ORG_chest
+      position: {x: -8.881785e-19, y: 0.016767364, z: -0.0017559583}
+      rotation: {x: -4.939083e-10, y: -0.000000036699074, z: -0.7071068, w: 0.70710677}
+      scale: {x: 1.0000005, y: 1.0000004, z: 0.99999994}
+    - name: ORG_head
+      parentName: ORG_neck
+      position: {x: -0.051848836, y: 1.1512754e-17, z: 0.00836335}
+      rotation: {x: -0.4059429, y: 0.36132696, z: 0.55811274, w: 0.6270274}
+      scale: {x: 1.0000007, y: 0.9999998, z: 1.0000017}
+    - name: upper_lip_01_root
+      parentName: ORG_head
+      position: {x: -0.019135095, y: -0.025806405, z: 0.009868091}
+      rotation: {x: 0.011452288, y: 0.20897457, z: 0.16631715, w: 0.9636063}
+      scale: {x: 1, y: 1, z: 1}
+    - name: upper_lip_01_tip
+      parentName: upper_lip_01_root
+      position: {x: -0.038355336, y: 0.0011242492, z: 6.00216e-10}
+      rotation: {x: 0.00000007264315, y: -0.70710677, z: 0.0000000060535954, w: 0.70710677}
+      scale: {x: 1.0000001, y: 1.0000004, z: 1.0000004}
+    - name: upper_lip_02_root_L
+      parentName: ORG_head
+      position: {x: -0.019135095, y: -0.025806405, z: 0.009868091}
+      rotation: {x: 0.04180494, y: 0.028433893, z: 0.16138431, w: 0.98559576}
+      scale: {x: 1, y: 1, z: 1}
+    - name: upper_lip_02_tip_L
+      parentName: upper_lip_02_root_L
+      position: {x: -0.03869179, y: 0.0011242492, z: -1.0734081e-10}
+      rotation: {x: 0.000000067055204, y: -0.7071068, z: 0.000000003725289, w: 0.70710677}
+      scale: {x: 1, y: 1.0000004, z: 1}
+    - name: upper_lip_04_root_L
+      parentName: ORG_head
+      position: {x: -0.019135095, y: -0.025806405, z: 0.009868091}
+      rotation: {x: 0.10467395, y: -0.34221444, z: 0.10288194, w: 0.9280883}
+      scale: {x: 1, y: 1, z: 1}
+    - name: upper_lip_04_tip_L
+      parentName: upper_lip_04_root_L
+      position: {x: -0.038436558, y: 0.0011242494, z: -0.0000000014282442}
+      rotation: {x: -0.000000033527606, y: -0.70710677, z: -0.000000007450579, w: 0.70710677}
+      scale: {x: 1.0000005, y: 1.0000002, z: 1.0000002}
+    - name: upper_lip_03_root_L
+      parentName: ORG_head
+      position: {x: -0.019135095, y: -0.025806405, z: 0.009868091}
+      rotation: {x: 0.07726427, y: -0.17014664, z: 0.12885357, w: 0.97389793}
+      scale: {x: 1, y: 1, z: 1}
+    - name: upper_lip_03_tip_L
+      parentName: upper_lip_03_root_L
+      position: {x: -0.03577575, y: 0.0011242493, z: -8.6779484e-10}
+      rotation: {x: -0.0000000074505797, y: -0.70710695, z: -0.0000000074505797, w: 0.7071067}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1}
+    - name: upper_lip_02_root_R
+      parentName: ORG_head
+      position: {x: -0.01913505, y: -0.025806542, z: 0.009868079}
+      rotation: {x: 0.3824051, y: 0.019290015, z: 0.908831, w: -0.1655912}
+      scale: {x: 1, y: 1, z: 1}
+    - name: upper_lip_02_tip_R
+      parentName: upper_lip_02_root_R
+      position: {x: 0.03869176, y: -0.0011247608, z: 0.00000006378666}
+      rotation: {x: 0.000000040978183, y: -0.7071068, z: 0.000000022351736, w: 0.7071068}
+      scale: {x: 0.99999994, y: 1.0000005, z: 1.0000005}
+    - name: upper_lip_03_root_R
+      parentName: ORG_head
+      position: {x: -0.01913505, y: -0.025806542, z: 0.009868079}
+      rotation: {x: 0.5572903, y: 0.064313345, z: 0.8157432, w: -0.14090528}
+      scale: {x: 1, y: 1, z: 1}
+    - name: upper_lip_03_tip_R
+      parentName: upper_lip_03_root_R
+      position: {x: 0.035775777, y: -0.0011242188, z: 0.000000014530542}
+      rotation: {x: -0.000000068917856, y: -0.7071068, z: 0.000000081956365, w: 0.7071068}
+      scale: {x: 1.0000001, y: 1.0000004, z: 1.0000005}
+    - name: upper_lip_04_root_R
+      parentName: ORG_head
+      position: {x: -0.01913505, y: -0.025806542, z: 0.009868079}
+      rotation: {x: 0.69442856, y: 0.09770731, z: 0.70269257, w: -0.1201891}
+      scale: {x: 1, y: 1, z: 1}
+    - name: upper_lip_04_tip_R
+      parentName: upper_lip_04_root_R
+      position: {x: 0.038436595, y: -0.0011247486, z: 0.000000048459047}
+      rotation: {x: 0.00000007450579, y: -0.7071067, z: -0.000000044703473, w: 0.7071068}
+      scale: {x: 1.0000005, y: 1.0000011, z: 1.0000007}
+    - name: cheek_jnt_R
+      parentName: ORG_head
+      position: {x: -0.003973927, y: -0.019125246, z: 0.055517957}
+      rotation: {x: 0.98872024, y: 0.057493098, z: 0.13806637, w: -0.0080284905}
+      scale: {x: 0.99999994, y: 1.0000005, z: 1.0000005}
+    - name: cheek_jnt_L
+      parentName: ORG_head
+      position: {x: -0.043109417, y: -0.023691976, z: -0.03231212}
+      rotation: {x: 0.049170498, y: -0.845594, z: 0.030857354, w: 0.5306608}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: ORG_eyebow_01_L
+      parentName: ORG_head
+      position: {x: -0.06981847, y: 0.025511976, z: 0.0123124225}
+      rotation: {x: 0.031548284, y: -0.54254174, z: 0.04873006, w: 0.8380206}
+      scale: {x: 0.9999996, y: 1.0000004, z: 1.0000001}
+    - name: ORG_eyebow_02_L
+      parentName: ORG_head
+      position: {x: -0.070037186, y: 0.026070625, z: 0.0052205166}
+      rotation: {x: 0.031548284, y: -0.54254174, z: 0.04873006, w: 0.8380206}
+      scale: {x: 0.9999996, y: 1.0000004, z: 1.0000001}
+    - name: ORG_eyebow_03_L
+      parentName: ORG_head
+      position: {x: -0.068436, y: 0.024982201, z: -0.0046168463}
+      rotation: {x: 0.031548284, y: -0.54254174, z: 0.04873006, w: 0.8380206}
+      scale: {x: 0.9999996, y: 1.0000004, z: 1.0000001}
+    - name: ORG_eyebow_04_L
+      parentName: ORG_head
+      position: {x: -0.064903155, y: 0.023067467, z: -0.013194938}
+      rotation: {x: 0.031548284, y: -0.54254174, z: 0.04873006, w: 0.8380206}
+      scale: {x: 0.9999996, y: 1.0000004, z: 1.0000001}
+    - name: ORG_eyebow_01_R
+      parentName: ORG_head
+      position: {x: -0.056857415, y: 0.027024277, z: 0.0414004}
+      rotation: {x: 0.8380206, y: 0.048730064, z: 0.54254174, w: -0.031548284}
+      scale: {x: 0.9999997, y: 1.0000004, z: 1}
+    - name: ORG_eyebow_02_R
+      parentName: ORG_head
+      position: {x: -0.051764026, y: 0.028202571, z: 0.046229977}
+      rotation: {x: 0.8380206, y: 0.048730064, z: 0.54254174, w: -0.031548284}
+      scale: {x: 0.9999997, y: 1.0000004, z: 1}
+    - name: ORG_eyebow_03_R
+      parentName: ORG_head
+      position: {x: -0.0433523, y: 0.027909568, z: 0.051677532}
+      rotation: {x: 0.8380206, y: 0.048730064, z: 0.54254174, w: -0.031548284}
+      scale: {x: 0.9999997, y: 1.0000004, z: 1}
+    - name: ORG_eyebow_04_R
+      parentName: ORG_head
+      position: {x: -0.034549553, y: 0.026609093, z: 0.054926295}
+      rotation: {x: 0.8380206, y: 0.048730064, z: 0.54254174, w: -0.031548284}
+      scale: {x: 0.9999997, y: 1.0000004, z: 1}
+    - name: ORG_eyes_L
+      parentName: ORG_head
+      position: {x: -0.047789615, y: -0.0006985748, z: -0.0036678235}
+      rotation: {x: 0.031548284, y: -0.54254174, z: 0.04873006, w: 0.8380206}
+      scale: {x: 0.9999998, y: 1.0000001, z: 1.0000001}
+    - name: ORG_upper_eyelid_01_root_L
+      parentName: ORG_eyes_L
+      position: {x: -5.9604643e-10, y: 0.0023681133, z: -4.4408918e-17}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.9999998, y: 1.0000001, z: 1}
+    - name: ORG_upper_eyelid_01_tip_L
+      parentName: ORG_upper_eyelid_01_root_L
+      position: {x: 0.0036774343, y: 0.0077199987, z: 0.015134067}
+      rotation: {x: -0, y: -0, z: 7.121342e-10, w: 1}
+      scale: {x: 1, y: 1, z: 1.0000001}
+    - name: ORG_upper_eyelid_02_root_L
+      parentName: ORG_eyes_L
+      position: {x: -5.9604643e-10, y: 0.0023681133, z: -4.4408918e-17}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.9999998, y: 1.0000001, z: 1}
+    - name: ORG_upper_eyelid_02_tip_L
+      parentName: ORG_upper_eyelid_02_root_L
+      position: {x: -0.00466387, y: 0.012692699, z: 0.010858461}
+      rotation: {x: -0, y: -0, z: 7.121342e-10, w: 1}
+      scale: {x: 1, y: 1, z: 1.0000001}
+    - name: ORG_upper_eyelid_03_root_L
+      parentName: ORG_eyes_L
+      position: {x: -5.9604643e-10, y: 0.0023681133, z: -4.4408918e-17}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.9999998, y: 1.0000001, z: 1}
+    - name: ORG_upper_eyelid_03_tip_L
+      parentName: ORG_upper_eyelid_03_root_L
+      position: {x: -0.009796981, y: 0.00691795, z: 0.006007521}
+      rotation: {x: -0, y: -0, z: 7.121342e-10, w: 1}
+      scale: {x: 1, y: 1, z: 1.0000001}
+    - name: ORG_center_eyelid_01_root_L
+      parentName: ORG_eyes_L
+      position: {x: -5.9604643e-10, y: 0.0023681133, z: -4.4408918e-17}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.9999998, y: 1.0000001, z: 1}
+    - name: ORG_center_eyelid_01_tip_L
+      parentName: ORG_center_eyelid_01_root_L
+      position: {x: 0.007848086, y: -0.0020649927, z: 0.01444647}
+      rotation: {x: -0, y: -0, z: 7.121342e-10, w: 1}
+      scale: {x: 1, y: 1, z: 1.0000001}
+    - name: ORG_center_eyelid_02_root_L
+      parentName: ORG_eyes_L
+      position: {x: -5.9604643e-10, y: 0.0023681133, z: -4.4408918e-17}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.9999998, y: 1.0000001, z: 1}
+    - name: ORG_center_eyelid_02_tip_L
+      parentName: ORG_center_eyelid_02_root_L
+      position: {x: -0.011240668, y: -0.0012629443, z: 0.0045450884}
+      rotation: {x: -0, y: -0, z: 7.121342e-10, w: 1}
+      scale: {x: 1, y: 1, z: 1.0000001}
+    - name: ORG_lower_eyelid_02_root_L
+      parentName: ORG_eyes_L
+      position: {x: -5.9604643e-10, y: 0.0023681133, z: -4.4408918e-17}
+      rotation: {x: -0.00000004656613, y: 0.000000029802322, z: 0.000000026077032,
+        w: 1}
+      scale: {x: 0.9999996, y: 1.0000001, z: 1.0000004}
+    - name: ORG_lower_eyelid_02_tip_L
+      parentName: ORG_lower_eyelid_02_root_L
+      position: {x: 0.004479483, y: -0.011368755, z: 0.013101595}
+      rotation: {x: -0, y: -0, z: -3.8857806e-16, w: 1}
+      scale: {x: 0.99999994, y: 1, z: 1.0000001}
+    - name: ORG_lower_eyelid_03_root_L
+      parentName: ORG_eyes_L
+      position: {x: -5.9604643e-10, y: 0.0023681133, z: -4.4408918e-17}
+      rotation: {x: -0.00000004656613, y: 0.000000029802322, z: 0.000000026077032,
+        w: 1}
+      scale: {x: 0.9999996, y: 1.0000001, z: 1.0000004}
+    - name: ORG_lower_eyelid_03_tip_L
+      parentName: ORG_lower_eyelid_03_root_L
+      position: {x: -0.009155341, y: -0.00896261, z: 0.006204442}
+      rotation: {x: -0, y: -0, z: -3.8857806e-16, w: 1}
+      scale: {x: 0.99999994, y: 1, z: 1.0000001}
+    - name: ORG_lower_eyelid_01_root_L
+      parentName: ORG_eyes_L
+      position: {x: -5.9604643e-10, y: 0.0023681133, z: -4.4408918e-17}
+      rotation: {x: -0.00000004656613, y: 0.000000029802322, z: 0.000000026077032,
+        w: 1}
+      scale: {x: 0.99999946, y: 1.0000001, z: 1.0000008}
+    - name: ORG_lower_eyelid_01_tip_L
+      parentName: ORG_lower_eyelid_01_root_L
+      position: {x: -0.0024181344, y: -0.014897768, z: 0.010858461}
+      rotation: {x: -0, y: -0, z: -3.8857806e-16, w: 1}
+      scale: {x: 0.99999994, y: 1, z: 1.0000001}
+    - name: ORG_eyes_R
+      parentName: ORG_head
+      position: {x: -0.029244224, y: 0.0014655499, z: 0.037952833}
+      rotation: {x: 0.8380206, y: 0.048730064, z: 0.54254174, w: -0.031548284}
+      scale: {x: 0.9999996, y: 1.0000002, z: 1.0000001}
+    - name: ORG_upper_eyelid_01_root_R
+      parentName: ORG_eyes_R
+      position: {x: -4.440892e-18, y: -0.0023679999, z: 8.881784e-18}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.9999999, y: 1.0000005, z: 1.0000004}
+    - name: ORG_upper_eyelid_01_tip_R
+      parentName: ORG_upper_eyelid_01_root_R
+      position: {x: -0.0036774, y: -0.00772, z: -0.015133999}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000005, z: 1.0000004}
+    - name: ORG_upper_eyelid_02_root_R
+      parentName: ORG_eyes_R
+      position: {x: -4.440892e-18, y: -0.0023679999, z: 8.881784e-18}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.9999999, y: 1.0000005, z: 1.0000004}
+    - name: ORG_upper_eyelid_02_tip_R
+      parentName: ORG_upper_eyelid_02_root_R
+      position: {x: 0.0046639, y: -0.012692999, z: -0.0108584}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000005, z: 1.0000004}
+    - name: ORG_upper_eyelid_03_root_R
+      parentName: ORG_eyes_R
+      position: {x: -4.440892e-18, y: -0.0023679999, z: 8.881784e-18}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.9999999, y: 1.0000005, z: 1.0000004}
+    - name: ORG_upper_eyelid_03_tip_R
+      parentName: ORG_upper_eyelid_03_root_R
+      position: {x: 0.009797, y: -0.006918, z: -0.0060075}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000005, z: 1.0000004}
+    - name: ORG_center_eyelid_01_root_R
+      parentName: ORG_eyes_R
+      position: {x: -4.440892e-18, y: -0.0023679999, z: 8.881784e-18}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.9999999, y: 1.0000005, z: 1.0000004}
+    - name: ORG_center_eyelid_01_tip_R
+      parentName: ORG_center_eyelid_01_root_R
+      position: {x: -0.0078481, y: 0.002065, z: -0.0144464}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000005, z: 1.0000004}
+    - name: ORG_center_eyelid_02_root_R
+      parentName: ORG_eyes_R
+      position: {x: -4.440892e-18, y: -0.0023679999, z: 8.881784e-18}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.9999999, y: 1.0000005, z: 1.0000004}
+    - name: ORG_center_eyelid_02_tip_R
+      parentName: ORG_center_eyelid_02_root_R
+      position: {x: 0.0112407, y: 0.0012630001, z: -0.0045451}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000005, z: 1.0000004}
+    - name: ORG_lower_eyelid_03_root_R
+      parentName: ORG_eyes_R
+      position: {x: -4.440892e-18, y: -0.0023679999, z: 8.881784e-18}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.9999999, y: 1.0000005, z: 1.0000004}
+    - name: ORG_lower_eyelid_03_tip_R
+      parentName: ORG_lower_eyelid_03_root_R
+      position: {x: 0.009155399, y: 0.008963, z: -0.0062043997}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000005, z: 1.0000004}
+    - name: ORG_lower_eyelid_01_root_R
+      parentName: ORG_eyes_R
+      position: {x: -4.440892e-18, y: -0.0023679999, z: 8.881784e-18}
+      rotation: {x: -0.000000031664964, y: -0.00000003026798, z: 0.0000000074505797,
+        w: 1}
+      scale: {x: 0.9999996, y: 1.000001, z: 1.0000017}
+    - name: ORG_lower_eyelid_01_tip_R
+      parentName: ORG_lower_eyelid_01_root_R
+      position: {x: 0.0024181998, y: 0.014897999, z: -0.0108584}
+      rotation: {x: -0, y: -0, z: -7.025619e-17, w: 1}
+      scale: {x: 0.99999994, y: 1.0000005, z: 1.0000004}
+    - name: ORG_lower_eyelid_02_root_R
+      parentName: ORG_eyes_R
+      position: {x: -4.440892e-18, y: -0.0023679999, z: 8.881784e-18}
+      rotation: {x: -0.000000031664964, y: -0.00000003026798, z: 0.0000000074505797,
+        w: 1}
+      scale: {x: 0.9999996, y: 1.000001, z: 1.0000017}
+    - name: ORG_lower_eyelid_02_tip_R
+      parentName: ORG_lower_eyelid_02_root_R
+      position: {x: -0.0044795, y: 0.011368999, z: -0.0131016}
+      rotation: {x: -0, y: -0, z: -7.025619e-17, w: 1}
+      scale: {x: 0.99999994, y: 1.0000005, z: 1.0000004}
+    - name: ORG_hair_01_strand_root
+      parentName: ORG_head
+      position: {x: -0.018595742, y: 0.050241027, z: 0.047142394}
+      rotation: {x: 0.13233203, y: -0.3981853, z: -0.18450174, w: 0.88876086}
+      scale: {x: 0.9999997, y: 1, z: 1}
+    - name: ORG_hair_01_strand_02
+      parentName: ORG_hair_01_strand_root
+      position: {x: -0.03298044, y: 9.59622e-10, z: -0.0000000015451429}
+      rotation: {x: -0.010219534, y: 0.03085997, z: 0.20419247, w: 0.97839093}
+      scale: {x: 0.9999998, y: 1.0000002, z: 1}
+    - name: ORG_hair_01_strand_03
+      parentName: ORG_hair_01_strand_02
+      position: {x: -0.033066116, y: -0.012999999, z: 1.4210854e-16}
+      rotation: {x: 0.0061862157, y: 0.1295866, z: 0.15967979, w: 0.97860694}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ORG_hair_01_strand_04
+      parentName: ORG_hair_01_strand_03
+      position: {x: -0.03474923, y: -1.4210854e-16, z: -3.9968027e-17}
+      rotation: {x: 0.010891287, y: 0.09546048, z: -0.095256686, w: 0.9908052}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: ORG_hair_01_strand_05
+      parentName: ORG_hair_01_strand_04
+      position: {x: -0.034348298, y: -7.105427e-17, z: -5.606626e-17}
+      rotation: {x: 0.0124599105, y: -0.06910451, z: -0.19440736, w: 0.9784044}
+      scale: {x: 1.0000004, y: 0.99999976, z: 1.0000005}
+    - name: ORG_hair_01_strand_tip
+      parentName: ORG_hair_01_strand_05
+      position: {x: -0.028796455, y: 3.5527136e-17, z: 0}
+      rotation: {x: 0.06034839, y: -0.31848386, z: 0.17612131, w: 0.92946625}
+      scale: {x: 0.99999994, y: 0.99999976, z: 1}
+    - name: ORG_hair_02_strand_root
+      parentName: ORG_head
+      position: {x: 0.00006486162, y: 0.05393289, z: 0.0403594}
+      rotation: {x: 0.11435351, y: -0.47700012, z: -0.28283417, w: 0.8242567}
+      scale: {x: 0.99999934, y: 0.9999997, z: 0.9999998}
+    - name: ORG_hair_02_strand_02
+      parentName: ORG_hair_02_strand_root
+      position: {x: -0.032758594, y: 0.0000000011304326, z: -0.0000000015732164}
+      rotation: {x: -0.12824523, y: -0.008243618, z: 0.21803017, w: 0.96744406}
+      scale: {x: 0.9999991, y: 1.000001, z: 1}
+    - name: ORG_hair_02_strand_03
+      parentName: ORG_hair_02_strand_02
+      position: {x: -0.034144517, y: -0.004673558, z: -0.0028468235}
+      rotation: {x: -0.0014127635, y: 0.017688362, z: 0.2540521, w: 0.9670278}
+      scale: {x: 0.99999976, y: 0.99999976, z: 1}
+    - name: ORG_hair_02_strand_04
+      parentName: ORG_hair_02_strand_03
+      position: {x: -0.028618088, y: -0.005514207, z: 0.004177467}
+      rotation: {x: 0.03243196, y: 0.1144898, z: 0.22393082, w: 0.96731347}
+      scale: {x: 0.9999997, y: 1.0000005, z: 1.0000002}
+    - name: ORG_hair_02_strand_05
+      parentName: ORG_hair_02_strand_04
+      position: {x: -0.031537518, y: -1.4210854e-16, z: -5.3290704e-17}
+      rotation: {x: -0.005727634, y: 0.06468399, z: -0.1559865, w: 0.98562235}
+      scale: {x: 1, y: 0.9999999, z: 0.99999994}
+    - name: ORG_hair_02_strand_06
+      parentName: ORG_hair_02_strand_05
+      position: {x: -0.023214515, y: 7.105427e-17, z: 1.7763568e-17}
+      rotation: {x: 0.10310177, y: 0.014771298, z: -0.32812044, w: 0.9388764}
+      scale: {x: 1, y: 1.0000001, z: 0.99999994}
+    - name: ORG_hair_02_strand_07
+      parentName: ORG_hair_02_strand_06
+      position: {x: -0.024561841, y: 0.00018234442, z: -0.0014361046}
+      rotation: {x: 0.2139152, y: -0.28402033, z: 0.16904238, w: 0.9192374}
+      scale: {x: 1.0000002, y: 1, z: 0.9999997}
+    - name: ORG_hair_04_strand_root
+      parentName: ORG_head
+      position: {x: 0.023999633, y: 0.059042957, z: 0.038564272}
+      rotation: {x: -0.23472776, y: 0.78453285, z: -0.46004358, w: 0.343178}
+      scale: {x: 1, y: 0.99999934, z: 1.0000001}
+    - name: ORG_hair_04_strand_02
+      parentName: ORG_hair_04_strand_root
+      position: {x: -0.012660233, y: 3.9286321e-10, z: 0.000000001030961}
+      rotation: {x: -0.068444684, y: -0.028971083, z: -0.040333826, w: 0.99641824}
+      scale: {x: 1.0000013, y: 1.0000001, z: 1.0000006}
+    - name: ORG_hair_04_strand_03
+      parentName: ORG_hair_04_strand_02
+      position: {x: -0.010465537, y: 1.1546319e-16, z: -8.8817837e-17}
+      rotation: {x: -0.025183102, y: 0.0063184197, z: -0.15588386, w: 0.98743415}
+      scale: {x: 1.000001, y: 0.99999994, z: 1.0000005}
+    - name: ORG_hair_04_strand_tip
+      parentName: ORG_hair_04_strand_03
+      position: {x: -0.013675682, y: 6.5503156e-17, z: 5.3290704e-17}
+      rotation: {x: 0.40316302, y: -0.7556617, z: -0.24297234, w: -0.45541134}
+      scale: {x: 0.99999946, y: 1.0000004, z: 0.9999992}
+    - name: ORG_hair_03_strand_root
+      parentName: ORG_head
+      position: {x: 0.007721118, y: 0.050403696, z: 0.039256357}
+      rotation: {x: -0.5487011, y: 0.8136256, z: 0.1643855, w: 0.09958892}
+      scale: {x: 0.9999991, y: 0.9999997, z: 0.9999985}
+    - name: ORG_hair_03_strand_02
+      parentName: ORG_hair_03_strand_root
+      position: {x: -0.01725222, y: 0, z: -4.440892e-18}
+      rotation: {x: 0.0767412, y: -0.15791394, z: -0.053607065, w: -0.98300576}
+      scale: {x: 1.0000018, y: 1.0000007, z: 1.0000005}
+    - name: ORG_hair_03_strand_03
+      parentName: ORG_hair_03_strand_02
+      position: {x: -0.011629553, y: -0.0000000013278721, z: -2.389001e-10}
+      rotation: {x: 0.11735168, y: 0.19140372, z: -0.06719709, w: 0.9721511}
+      scale: {x: 1.0000002, y: 0.99999994, z: 0.99999994}
+    - name: ORG_hair_03_strand_04
+      parentName: ORG_hair_03_strand_03
+      position: {x: -0.011458679, y: -5.3290704e-17, z: 0}
+      rotation: {x: -0.08831183, y: 0.13265194, z: 0.044194218, w: 0.98623085}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1}
+    - name: ORG_hair_03_strand_tip
+      parentName: ORG_hair_03_strand_04
+      position: {x: -0.015737565, y: -3.5527136e-17, z: 1.7763568e-17}
+      rotation: {x: -0.18211696, y: 0.40293977, z: 0.3694048, w: 0.81732076}
+      scale: {x: 1.0000002, y: 1.0000002, z: 0.9999998}
+    - name: ORG_jaw
+      parentName: ORG_head
+      position: {x: 0.0005410946, y: -0.02536333, z: 0.0010776931}
+      rotation: {x: 0.037439074, y: 0.20591219, z: 0.28525838, w: 0.9353214}
+      scale: {x: 1.0000011, y: 1.0000006, z: 0.9999998}
+    - name: lower_lip_01_root
+      parentName: ORG_jaw
+      position: {x: -0.01824692, y: 0.011474742, z: -5.246784e-17}
+      rotation: {x: 0, y: 0, z: 0.11425226, w: 0.9934518}
+      scale: {x: 1, y: 1, z: 1}
+    - name: upper_lip_01_tip 1
+      parentName: lower_lip_01_root
+      position: {x: -0.03931983, y: 0.0011242484, z: 6.00216e-10}
+      rotation: {x: -0.000000052154054, y: -0.7071068, z: -0.000000044703473, w: 0.7071068}
+      scale: {x: 1.0000001, y: 1.0000001, z: 0.9999999}
+    - name: lower_lip_02_root
+      parentName: ORG_jaw
+      position: {x: -0.01824692, y: 0.011474742, z: -5.246784e-17}
+      rotation: {x: 0.024415642, y: -0.21230006, z: 0.11161297, w: 0.9705025}
+      scale: {x: 1, y: 1, z: 1}
+    - name: upper_lip_02_tip
+      parentName: lower_lip_02_root
+      position: {x: -0.037271485, y: 0.0011242484, z: -3.0358832e-10}
+      rotation: {x: -0.000000040978176, y: -0.7071067, z: -0.00000008754428, w: 0.70710677}
+      scale: {x: 1.0000004, y: 1, z: 1.0000002}
+    - name: lower_lip_03_root
+      parentName: ORG_jaw
+      position: {x: -0.01824692, y: 0.011474742, z: -5.246784e-17}
+      rotation: {x: 0.055588506, y: -0.4451207, z: 0.093460694, w: 0.8888434}
+      scale: {x: 1, y: 1, z: 1}
+    - name: upper_lip_03_tip
+      parentName: lower_lip_03_root
+      position: {x: -0.034177113, y: 0.0011242484, z: -0.0000000012717497}
+      rotation: {x: -0.00000009872016, y: -0.7071068, z: 0.00000010803338, w: 0.7071067}
+      scale: {x: 1.0000002, y: 1, z: 1.0000001}
+    - name: lower_lip_02_root1
+      parentName: ORG_jaw
+      position: {x: -0.01824696, y: 0.011474602, z: 8.40347e-17}
+      rotation: {x: 0.21230008, y: 0.024415644, z: 0.97050256, w: -0.111612976}
+      scale: {x: 1, y: 1, z: 1}
+    - name: upper_lip_02_tip 1
+      parentName: lower_lip_02_root1
+      position: {x: 0.03727163, y: -0.0011241741, z: -0.00000006940435}
+      rotation: {x: -0.000000004656611, y: -0.7071068, z: 0.000000039115534, w: 0.7071068}
+      scale: {x: 1, y: 1.0000001, z: 1.0000002}
+    - name: lower_lip_03_root1
+      parentName: ORG_jaw
+      position: {x: -0.01824696, y: 0.011474602, z: 8.40347e-17}
+      rotation: {x: 0.4451207, y: 0.055588506, z: 0.8888434, w: -0.093460694}
+      scale: {x: 1, y: 1, z: 1}
+    - name: upper_lip_03_tip 1
+      parentName: lower_lip_03_root1
+      position: {x: 0.03417724, y: -0.0011239797, z: -0.00000019290808}
+      rotation: {x: 0.000000032596276, y: -0.70710677, z: 0.00000011548394, w: 0.7071067}
+      scale: {x: 1.0000001, y: 1.0000004, z: 1.0000004}
+    - name: ORG_chin
+      parentName: ORG_jaw
+      position: {x: -0.05397978, y: -0.0024263193, z: -1.3706484e-17}
+      rotation: {x: -0.16666569, y: -0.6871845, z: -0.16666575, w: 0.68718445}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ORG_tongue_root
+      parentName: ORG_jaw
+      position: {x: -0.023558993, y: -0.006315074, z: -6.3076135e-16}
+      rotation: {x: 0.000000014901159, y: -0.00000004470348, z: -0.24516314, w: 0.9694818}
+      scale: {x: 1.0000002, y: 0.99999994, z: 1}
+    - name: ORG_tongue_02
+      parentName: ORG_tongue_root
+      position: {x: -0.010795983, y: 5.8955457e-10, z: 6.002158e-10}
+      rotation: {x: 0.0000001100897, y: 0.000000043845496, z: 0.04430595, w: 0.9990181}
+      scale: {x: 1.0000001, y: 0.99999994, z: 1}
+    - name: ORG_tongue_03
+      parentName: ORG_tongue_02
+      position: {x: -0.012341275, y: -5.3290704e-17, z: 5.870304e-17}
+      rotation: {x: -0.000000077829334, y: -0.0000000442299, z: 0.016928751, w: 0.99985677}
+      scale: {x: 0.9999998, y: 1, z: 0.99999994}
+    - name: ORG_tongue_tip
+      parentName: ORG_tongue_03
+      position: {x: -0.010451838, y: 9.992007e-17, z: 3.0941203e-19}
+      rotation: {x: -0.024339588, y: -0.7066877, z: -0.024339566, w: 0.70668775}
+      scale: {x: 1.0000004, y: 1, z: 1.0000004}
+    - name: ORG_nose_root
+      parentName: ORG_head
+      position: {x: -0.051774982, y: -0.021994429, z: 0.024213638}
+      rotation: {x: -0.014558893, y: 0.2087812, z: 0.045499805, w: 0.97679496}
+      scale: {x: 1.0000015, y: 0.9999998, z: 1}
+    - name: ORG_nose_tip
+      parentName: ORG_nose_root
+      position: {x: -0.017575433, y: -2.359224e-18, z: 3.90253e-18}
+      rotation: {x: 0.008157344, y: -0.7070598, z: 0.0081573725, w: 0.7070597}
+      scale: {x: 1.0000005, y: 1.0000004, z: 1.0000004}
+    - name: ORG_thigh_R
+      parentName: ORG_hips
+      position: {x: -0.0036347436, y: 0.0006466588, z: -0.0194654}
+      rotation: {x: -0.99172187, y: 0.039034933, z: 0.11252394, w: -0.0479836}
+      scale: {x: 1.0000002, y: 1.0000001, z: 1}
+    - name: ORG_knee_R
+      parentName: ORG_thigh_R
+      position: {x: 0.020854749, y: -0.003344721, z: -0.0023819134}
+      rotation: {x: -0.0019732192, y: 0.029636169, z: 0.06640515, w: 0.99735063}
+      scale: {x: 1.0000002, y: 1.0000004, z: 1.000001}
+    - name: ORG_foot_R
+      parentName: ORG_knee_R
+      position: {x: 0.022155205, y: 0.0051390836, z: 0.00010614814}
+      rotation: {x: -0.023333808, y: -0.11604224, z: 0.7158873, w: -0.6881099}
+      scale: {x: 1.0000007, y: 1.0000006, z: 1.0000004}
+    - name: ORG_ball_R
+      parentName: ORG_foot_R
+      position: {x: 0.01324148, y: -2.4310703e-10, z: -0.00000001568079}
+      rotation: {x: -0.000000030733638, y: -0.000000089406946, z: -0.07597153, w: 0.99711007}
+      scale: {x: 1.0000004, y: 1.0000006, z: 1.0000004}
+    - name: ORG_toe_R
+      parentName: ORG_ball_R
+      position: {x: 0.020429851, y: -0.0000000015679669, z: -0.00000000381459}
+      rotation: {x: 0.6035393, y: -0.410381, z: -0.51683897, w: 0.44744316}
+      scale: {x: 1.0000002, y: 1, z: 1.0000001}
+    - name: ORG_thigh_L
+      parentName: ORG_hips
+      position: {x: -0.0036347436, y: 0.0006466588, z: 0.0194654}
+      rotation: {x: 0.03903496, y: 0.9917218, z: 0.047984265, w: 0.11252399}
+      scale: {x: 1.0000002, y: 1.0000008, z: 1.0000002}
+    - name: ORG_knee_L
+      parentName: ORG_thigh_L
+      position: {x: -0.020854715, y: 0.003344723, z: 0.002381916}
+      rotation: {x: -0.0019732353, y: 0.02963605, z: 0.066404924, w: 0.99735063}
+      scale: {x: 1.0000006, y: 1.0000008, z: 1.0000004}
+    - name: ORG_foot_L
+      parentName: ORG_knee_L
+      position: {x: -0.022155236, y: -0.0051390813, z: -0.00010615339}
+      rotation: {x: 0.023334173, y: 0.1160427, z: -0.7158872, w: 0.6881099}
+      scale: {x: 0.9999997, y: 0.99999994, z: 1.0000001}
+    - name: ORG_ball_L
+      parentName: ORG_foot_L
+      position: {x: -0.0132415, y: 0.0000000034337837, z: 0.000000007747668}
+      rotation: {x: -0.000000004656613, y: -0.000000022351742, z: -0.07597133, w: 0.99711007}
+      scale: {x: 0.99999994, y: 0.9999998, z: 1.0000001}
+    - name: ORG_toe_L
+      parentName: ORG_ball_L
+      position: {x: -0.020429814, y: -0.000000002004976, z: -0.0000000019254385}
+      rotation: {x: 0.60353935, y: -0.4103811, z: -0.5168389, w: 0.44744304}
+      scale: {x: 1, y: 1.0000002, z: 1}
+    - name: Geometry
+      parentName: Charley_Animations_06-09-21(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GEO_charley_arms
+      parentName: Geometry
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GEO_charley_body
+      parentName: Geometry
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GEO_charley_ears
+      parentName: Geometry
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GEO_charley_eyebrows
+      parentName: Geometry
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GEO_charley_eyes
+      parentName: Geometry
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GEO_charley_hair_01
+      parentName: Geometry
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GEO_charley_hair_02
+      parentName: Geometry
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GEO_charley_hair_03
+      parentName: Geometry
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GEO_charley_hair_04
+      parentName: Geometry
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GEO_charley_hair_05
+      parentName: Geometry
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GEO_charley_pants
+      parentName: Geometry
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GEO_charley_shirt
+      parentName: Geometry
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GEO_charley_shoes
+      parentName: Geometry
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GEO_charley_teeth
+      parentName: Geometry
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GEO_charley_tongue
+      parentName: Geometry
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

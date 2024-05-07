@@ -1,0 +1,21 @@
+{
+    "name": "Kit.Demos",
+    "rootNamespace": "",
+    "references": [
+        "GUID:fa0083709b5a587408b2416c7416aa55",
+        "GUID:8161667de84644ec1b7c7b2a6d8e757d",
+        "GUID:f51ebe6a0ceec4240a699833d6309b23",
+        "GUID:5c01796d064528144a599661eaab93a6"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [
+        "UNITY_EDITOR"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

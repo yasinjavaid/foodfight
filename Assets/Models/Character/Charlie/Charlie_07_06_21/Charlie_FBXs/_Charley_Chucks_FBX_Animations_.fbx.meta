@@ -1,0 +1,228 @@
+fileFormatVersion: 2
+guid: 94983cfd72ad13c4f962b8706e6824e4
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      74: 1992245565157093812
+    second: Food_Fight_Charlie_Idle
+  - first:
+      74: -3598574083679670481
+    second: Food_Fight_Charlie_Clenching_Fist
+  - first:
+      74: -4141904928936295355
+    second: Food_Fight_Charlie_Idle_Weapon
+  - first:
+      74: 6247859244109299908
+    second: Food_Fight_Charlie_Ducking_Start
+  - first:
+      74: 6388851323621420300
+    second: Food_Fight_Charlie_Ducking_Loop
+  - first:
+      74: -2392025825052363198
+    second: Food_Fight_Charlie_Ducking_End
+  - first:
+      74: -7076238209324525328
+    second: Food_Fight_Charlie_Dodge_Left
+  - first:
+      74: 7567768621634284846
+    second: Food_Fight_Charlie_Dodge_Right
+  - first:
+      74: 474495746417882410
+    second: Food_Fight_Charlie_Getting_Hit
+  - first:
+      74: -8799160520218032924
+    second: Food_Fight_Charlie_(Running) Take_Damage_Upper_Body_Only
+  - first:
+      74: 7180969514891774759
+    second: Food_Fight_Charlie_(Idle)_Shooting_Upper_Body
+  - first:
+      74: 2558947781521561874
+    second: Food_Fight_Charlie_(Running) Reloading_Upper_Body_Only
+  - first:
+      74: -5156863855712687641
+    second: Food_Fight_Charlie_(Running) Ducking_START_Upper_Body_Only
+  - first:
+      74: -3508429052551121924
+    second: Food_Fight_Charlie_(Running) Ducking_LOOP_Upper_Body_Only
+  - first:
+      74: 7526989512628436212
+    second: Food_Fight_Charlie_(Running) Ducking_END_Upper_Body_Only
+  - first:
+      74: -2087299558503791478
+    second: Food_Fight_Charlie_Gun_Melee_Attack
+  - first:
+      74: -8223496003983573500
+    second: Food_Fight_Charlie_Reload
+  - first:
+      74: -5284337539389396915
+    second: Food_Fight_Charlie_Jump_START
+  - first:
+      74: 4675863607315570349
+    second: Food_Fight_Charlie_Jump_LOOP
+  - first:
+      74: -7091938173243139157
+    second: Food_Fight_Charlie_Jump_END
+  - first:
+      74: 5911086866627101061
+    second: Food_Fight_Charlie_Death
+  - first:
+      74: -1054630089951481157
+    second: Food_Fight_Charlie_Emote_01
+  - first:
+      74: 2047055191359920641
+    second: Food_Fight_Charlie_Emote_02
+  - first:
+      74: 3088489792751224058
+    second: Food_Fight_Charlie_Emote_03
+  - first:
+      74: -4126413110540366520
+    second: Food_Fight_Charlie_Obtain_New_Weapon
+  - first:
+      74: -5479881996659423460
+    second: Food_Fight_Charlie_Revive
+  - first:
+      74: -1473106547575768149
+    second: Food_Fight_Charlie_Running_FWD
+  - first:
+      74: -8238882940123711540
+    second: Food_Fight_Charlie_Running_RIGHT
+  - first:
+      74: 2808545048499816374
+    second: Food_Fight_Charlie_Running_LEFT
+  - first:
+      74: -4773806689215332404
+    second: Food_Fight_Charlie_Running_BACKWARD
+  - first:
+      74: 6310891993477569502
+    second: Food_Fight_Charlie_Sprint_FWD
+  - first:
+      74: 2710224488233681055
+    second: Food_Fight_Charlie_Sprint_RIGHT
+  - first:
+      74: -8862820889942787225
+    second: Food_Fight_Charlie_Sprint_LEFT
+  - first:
+      74: -869303152712368751
+    second: Food_Fight_Charlie_Sprint_BACK
+  - first:
+      74: 6412997515167164615
+    second: Food_Fight_Charlie_Sprint_SHOOTING_FWD
+  - first:
+      74: -544381125911138651
+    second: Food_Fight_Charlie_Sprint_SHOOTING_RIGHT
+  - first:
+      74: 4129588746029144303
+    second: Food_Fight_Charlie_Sprint_SHOOTING_LEFT
+  - first:
+      74: -3909716639559005354
+    second: Food_Fight_Charlie_Sprint_SHOOTING_BACK
+  - first:
+      74: 8794098720831245594
+    second: Food_Fight_Charlie_Running_SHOOTING_FWD
+  - first:
+      74: -6272470847919304528
+    second: Food_Fight_Charlie_Running_SHOOTING_RIGHT
+  - first:
+      74: 6821024476359512404
+    second: Food_Fight_Charlie_Running_SHOOTING_BACK
+  - first:
+      74: 3469358869891072919
+    second: Food_Fight_Charlie_Running_SHOOTING_LEFT
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

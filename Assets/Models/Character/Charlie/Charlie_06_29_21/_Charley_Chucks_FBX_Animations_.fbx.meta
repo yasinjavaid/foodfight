@@ -1,0 +1,2905 @@
+fileFormatVersion: 2
+guid: e898aba115dfd3f4a921bfbc19c6d535
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      74: 1992245565157093812
+    second: Food_Fight_Charlie_Idle
+  - first:
+      74: -3598574083679670481
+    second: Food_Fight_Charlie_Clenching_Fist
+  - first:
+      74: -4141904928936295355
+    second: Food_Fight_Charlie_Idle_Weapon
+  - first:
+      74: 6247859244109299908
+    second: Food_Fight_Charlie_Ducking_Start
+  - first:
+      74: 6388851323621420300
+    second: Food_Fight_Charlie_Ducking_Loop
+  - first:
+      74: -2392025825052363198
+    second: Food_Fight_Charlie_Ducking_End
+  - first:
+      74: -7076238209324525328
+    second: Food_Fight_Charlie_Dodge_Left
+  - first:
+      74: 7567768621634284846
+    second: Food_Fight_Charlie_Dodge_Right
+  - first:
+      74: 474495746417882410
+    second: Food_Fight_Charlie_Getting_Hit
+  - first:
+      74: -8799160520218032924
+    second: Food_Fight_Charlie_(Running) Take_Damage_Upper_Body_Only
+  - first:
+      74: 7180969514891774759
+    second: Food_Fight_Charlie_(Idle)_Shooting_Upper_Body
+  - first:
+      74: 2558947781521561874
+    second: Food_Fight_Charlie_(Running) Reloading_Upper_Body_Only
+  - first:
+      74: -5156863855712687641
+    second: Food_Fight_Charlie_(Running) Ducking_START_Upper_Body_Only
+  - first:
+      74: -3508429052551121924
+    second: Food_Fight_Charlie_(Running) Ducking_LOOP_Upper_Body_Only
+  - first:
+      74: 7526989512628436212
+    second: Food_Fight_Charlie_(Running) Ducking_END_Upper_Body_Only
+  - first:
+      74: -2087299558503791478
+    second: Food_Fight_Charlie_Gun_Melee_Attack
+  - first:
+      74: -8223496003983573500
+    second: Food_Fight_Charlie_Reload
+  - first:
+      74: -5284337539389396915
+    second: Food_Fight_Charlie_Jump_START
+  - first:
+      74: 4675863607315570349
+    second: Food_Fight_Charlie_Jump_LOOP
+  - first:
+      74: -7091938173243139157
+    second: Food_Fight_Charlie_Jump_END
+  - first:
+      74: 5911086866627101061
+    second: Food_Fight_Charlie_Death
+  - first:
+      74: -1054630089951481157
+    second: Food_Fight_Charlie_Emote_01
+  - first:
+      74: 2047055191359920641
+    second: Food_Fight_Charlie_Emote_02
+  - first:
+      74: 3088489792751224058
+    second: Food_Fight_Charlie_Emote_03
+  - first:
+      74: -4126413110540366520
+    second: Food_Fight_Charlie_Obtain_New_Weapon
+  - first:
+      74: -5479881996659423460
+    second: Food_Fight_Charlie_Revive
+  - first:
+      74: -1473106547575768149
+    second: Food_Fight_Charlie_Running_FWD
+  - first:
+      74: -8238882940123711540
+    second: Food_Fight_Charlie_Running_RIGHT
+  - first:
+      74: 2808545048499816374
+    second: Food_Fight_Charlie_Running_LEFT
+  - first:
+      74: -4773806689215332404
+    second: Food_Fight_Charlie_Running_BACKWARD
+  - first:
+      74: 6310891993477569502
+    second: Food_Fight_Charlie_Sprint_FWD
+  - first:
+      74: 2710224488233681055
+    second: Food_Fight_Charlie_Sprint_RIGHT
+  - first:
+      74: -8862820889942787225
+    second: Food_Fight_Charlie_Sprint_LEFT
+  - first:
+      74: -869303152712368751
+    second: Food_Fight_Charlie_Sprint_BACK
+  - first:
+      74: 6412997515167164615
+    second: Food_Fight_Charlie_Sprint_SHOOTING_FWD
+  - first:
+      74: -544381125911138651
+    second: Food_Fight_Charlie_Sprint_SHOOTING_RIGHT
+  - first:
+      74: 4129588746029144303
+    second: Food_Fight_Charlie_Sprint_SHOOTING_LEFT
+  - first:
+      74: -3909716639559005354
+    second: Food_Fight_Charlie_Sprint_SHOOTING_BACK
+  - first:
+      74: 8794098720831245594
+    second: Food_Fight_Charlie_Running_SHOOTING_FWD
+  - first:
+      74: -6272470847919304528
+    second: Food_Fight_Charlie_Running_SHOOTING_RIGHT
+  - first:
+      74: 6821024476359512404
+    second: Food_Fight_Charlie_Running_SHOOTING_BACK
+  - first:
+      74: 3469358869891072919
+    second: Food_Fight_Charlie_Running_SHOOTING_LEFT
+  - first:
+      74: 7281084117652212420
+    second: Food_Fight_Charlie_Obtain_New_Modifier
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: "\nClip 'Food_Fight_Charlie_Idle' has import animation
+      warnings that might lower retargeting quality:\n\t'ORG_chest' is inbetween
+      humanoid transforms and has rotation animation that will be discarded.\n\t'ORG_eyebow_04_L'
+      has translation animation that will be discarded.\n\t'ORG_eyebow_04_R' has
+      translation animation that will be discarded.\n\nClip 'Food_Fight_Charlie_Clenching_Fist'
+      has import animation warnings that might lower retargeting quality:\n\t'ORG_chest'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'ORG_eyebow_04_L'
+      has translation animation that will be discarded.\n\t'ORG_eyebow_04_R' has
+      translation animation that will be discarded.\n\nClip 'Food_Fight_Charlie_Idle_Weapon'
+      has import animation warnings that might lower retargeting quality:\n\t'ORG_chest'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'ORG_eyebow_04_L'
+      has translation animation that will be discarded.\n\t'ORG_eyebow_04_R' has
+      translation animation that will be discarded.\n\nClip 'Food_Fight_Charlie_Ducking_Start'
+      has import animation warnings that might lower retargeting quality:\n\t'ORG_chest'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'ORG_eyebow_04_L'
+      has translation animation that will be discarded.\n\t'ORG_eyebow_04_R' has
+      translation animation that will be discarded.\n\nClip 'Food_Fight_Charlie_Ducking_Loop'
+      has import animation warnings that might lower retargeting quality:\n\t'ORG_chest'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'ORG_eyebow_04_L'
+      has translation animation that will be discarded.\n\t'ORG_eyebow_04_R' has
+      translation animation that will be discarded.\n\nClip 'Food_Fight_Charlie_Ducking_End'
+      has import animation warnings that might lower retargeting quality:\n\t'ORG_chest'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'ORG_eyebow_04_L'
+      has translation animation that will be discarded.\n\t'ORG_eyebow_04_R' has
+      translation animation that will be discarded.\n\nClip 'Food_Fight_Charlie_Dodge_Left'
+      has import animation warnings that might lower retargeting quality:\n\t'ORG_chest'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'Food_Fight_Charlie_Dodge_Right' has import animation warnings that might lower
+      retargeting quality:\n\t'ORG_chest' is inbetween humanoid transforms and has
+      rotation animation that will be discarded.\n\nClip 'Food_Fight_Charlie_Getting_Hit'
+      has import animation warnings that might lower retargeting quality:\n\t'ORG_chest'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'ORG_eyebow_04_L'
+      has translation animation that will be discarded.\n\t'ORG_eyebow_04_R' has
+      translation animation that will be discarded.\n\nClip 'Food_Fight_Charlie_(Running)
+      Take_Damage_Upper_Body_Only' has import animation warnings that might lower
+      retargeting quality:\n\t'ORG_chest' is inbetween humanoid transforms and has
+      rotation animation that will be discarded.\n\t'ORG_eyebow_04_L' has translation
+      animation that will be discarded.\n\t'ORG_eyebow_04_R' has translation animation
+      that will be discarded.\n\nClip 'Food_Fight_Charlie_(Idle)_Shooting_Upper_Body'
+      has import animation warnings that might lower retargeting quality:\n\t'ORG_chest'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'ORG_eyebow_04_L'
+      has translation animation that will be discarded.\n\t'ORG_eyebow_04_R' has
+      translation animation that will be discarded.\n\nClip 'Food_Fight_Charlie_(Running)
+      Reloading_Upper_Body_Only' has import animation warnings that might lower retargeting
+      quality:\n\t'ORG_chest' is inbetween humanoid transforms and has rotation animation
+      that will be discarded.\n\t'ORG_eyebow_04_L' has translation animation that
+      will be discarded.\n\t'ORG_eyebow_04_R' has translation animation that will
+      be discarded.\n\nClip 'Food_Fight_Charlie_(Running) Ducking_START_Upper_Body_Only'
+      has import animation warnings that might lower retargeting quality:\n\t'ORG_chest'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'ORG_eyebow_04_L'
+      has translation animation that will be discarded.\n\t'ORG_eyebow_04_R' has
+      translation animation that will be discarded.\n\nClip 'Food_Fight_Charlie_(Running)
+      Ducking_LOOP_Upper_Body_Only' has import animation warnings that might lower
+      retargeting quality:\n\t'ORG_chest' is inbetween humanoid transforms and has
+      rotation animation that will be discarded.\n\t'ORG_eyebow_04_L' has translation
+      animation that will be discarded.\n\t'ORG_eyebow_04_R' has translation animation
+      that will be discarded.\n\nClip 'Food_Fight_Charlie_(Running) Ducking_END_Upper_Body_Only'
+      has import animation warnings that might lower retargeting quality:\n\t'ORG_chest'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'ORG_eyebow_04_L'
+      has translation animation that will be discarded.\n\t'ORG_eyebow_04_R' has
+      translation animation that will be discarded.\n\nClip 'Food_Fight_Charlie_Gun_Melee_Attack'
+      has import animation warnings that might lower retargeting quality:\n\t'ORG_chest'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'ORG_eyebow_04_L'
+      has translation animation that will be discarded.\n\t'ORG_eyebow_04_R' has
+      translation animation that will be discarded.\n\nClip 'Food_Fight_Charlie_Reload'
+      has import animation warnings that might lower retargeting quality:\n\t'ORG_chest'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'ORG_eyebow_04_L'
+      has translation animation that will be discarded.\n\t'ORG_eyebow_04_R' has
+      translation animation that will be discarded.\n\nClip 'Food_Fight_Charlie_Jump_START'
+      has import animation warnings that might lower retargeting quality:\n\t'ORG_chest'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'Food_Fight_Charlie_Jump_LOOP' has import animation warnings that might lower
+      retargeting quality:\n\t'ORG_chest' is inbetween humanoid transforms and has
+      rotation animation that will be discarded.\n\nClip 'Food_Fight_Charlie_Jump_END'
+      has import animation warnings that might lower retargeting quality:\n\t'ORG_chest'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'Food_Fight_Charlie_Death' has import animation warnings that might lower retargeting
+      quality:\n\t'ORG_chest' is inbetween humanoid transforms and has rotation animation
+      that will be discarded.\n\nClip 'Food_Fight_Charlie_Emote_01' has import animation
+      warnings that might lower retargeting quality:\n\t'ORG_chest' is inbetween
+      humanoid transforms and has rotation animation that will be discarded.\n\t'ORG_eyebow_04_L'
+      has translation animation that will be discarded.\n\t'ORG_eyebow_04_R' has
+      translation animation that will be discarded.\n\nClip 'Food_Fight_Charlie_Emote_02'
+      has import animation warnings that might lower retargeting quality:\n\t'ORG_chest'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'ORG_eyebow_04_L'
+      has translation animation that will be discarded.\n\t'ORG_eyebow_04_R' has
+      translation animation that will be discarded.\n\nClip 'Food_Fight_Charlie_Emote_03'
+      has import animation warnings that might lower retargeting quality:\n\t'ORG_chest'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'ORG_eyebow_04_L'
+      has translation animation that will be discarded.\n\t'ORG_eyebow_04_R' has
+      translation animation that will be discarded.\n\nClip 'Food_Fight_Charlie_Obtain_New_Weapon'
+      has import animation warnings that might lower retargeting quality:\n\t'ORG_chest'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'Food_Fight_Charlie_Revive' has import animation warnings that might lower
+      retargeting quality:\n\t'ORG_chest' is inbetween humanoid transforms and has
+      rotation animation that will be discarded.\n\t'ORG_eyebow_04_L' has translation
+      animation that will be discarded.\n\t'ORG_eyebow_04_R' has translation animation
+      that will be discarded.\n\t'ORG_thumb_01_L' has translation animation that
+      will be discarded.\n\t'ORG_thumb_02_L' has translation animation that will
+      be discarded.\n\t'ORG_thumb_03_L' has translation animation that will be discarded.\n\t'ORG_f_index_01_L'
+      has translation animation that will be discarded.\n\t'ORG_f_index_02_L' has
+      translation animation that will be discarded.\n\t'ORG_f_index_03_L' has translation
+      animation that will be discarded.\n\t'ORG_f_ring_01_L' has translation animation
+      that will be discarded.\n\t'ORG_f_ring_02_L' has translation animation that
+      will be discarded.\n\t'ORG_f_ring_03_L' has translation animation that will
+      be discarded.\n\t'ORG_f_pinky_01_L' has translation animation that will be
+      discarded.\n\t'ORG_f_pinky_02_L' has translation animation that will be discarded.\n\t'ORG_f_pinky_03_L'
+      has translation animation that will be discarded.\n\t'ORG_thumb_01_R' has translation
+      animation that will be discarded.\n\t'ORG_thumb_02_R' has translation animation
+      that will be discarded.\n\t'ORG_thumb_03_R' has translation animation that
+      will be discarded.\n\t'ORG_f_index_01_R' has translation animation that will
+      be discarded.\n\t'ORG_f_index_02_R' has translation animation that will be
+      discarded.\n\t'ORG_f_index_03_R' has translation animation that will be discarded.\n\t'ORG_f_ring_01_R'
+      has translation animation that will be discarded.\n\t'ORG_f_ring_02_R' has
+      translation animation that will be discarded.\n\t'ORG_f_ring_03_R' has translation
+      animation that will be discarded.\n\t'ORG_f_pinky_01_R' has translation animation
+      that will be discarded.\n\t'ORG_f_pinky_02_R' has translation animation that
+      will be discarded.\n\t'ORG_f_pinky_03_R' has translation animation that will
+      be discarded.\n\nClip 'Food_Fight_Charlie_Running_FWD' has import animation
+      warnings that might lower retargeting quality:\n\t'ORG_chest' is inbetween
+      humanoid transforms and has rotation animation that will be discarded.\n\t'ORG_eyebow_04_L'
+      has translation animation that will be discarded.\n\t'ORG_eyebow_04_R' has
+      translation animation that will be discarded.\n\nClip 'Food_Fight_Charlie_Running_RIGHT'
+      has import animation warnings that might lower retargeting quality:\n\t'ORG_chest'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'ORG_eyebow_04_L'
+      has translation animation that will be discarded.\n\t'ORG_eyebow_04_R' has
+      translation animation that will be discarded.\n\nClip 'Food_Fight_Charlie_Running_LEFT'
+      has import animation warnings that might lower retargeting quality:\n\t'ORG_chest'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'ORG_eyebow_04_L'
+      has translation animation that will be discarded.\n\t'ORG_eyebow_04_R' has
+      translation animation that will be discarded.\n\nClip 'Food_Fight_Charlie_Running_BACKWARD'
+      has import animation warnings that might lower retargeting quality:\n\t'ORG_chest'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'ORG_eyebow_04_L'
+      has translation animation that will be discarded.\n\t'ORG_eyebow_04_R' has
+      translation animation that will be discarded.\n\nClip 'Food_Fight_Charlie_Sprint_FWD'
+      has import animation warnings that might lower retargeting quality:\n\t'ORG_chest'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'Food_Fight_Charlie_Sprint_RIGHT' has import animation warnings that might
+      lower retargeting quality:\n\t'ORG_chest' is inbetween humanoid transforms
+      and has rotation animation that will be discarded.\n\nClip 'Food_Fight_Charlie_Sprint_LEFT'
+      has import animation warnings that might lower retargeting quality:\n\t'ORG_chest'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'Food_Fight_Charlie_Sprint_BACK' has import animation warnings that might lower
+      retargeting quality:\n\t'ORG_chest' is inbetween humanoid transforms and has
+      rotation animation that will be discarded.\n\nClip 'Food_Fight_Charlie_Sprint_SHOOTING_FWD'
+      has import animation warnings that might lower retargeting quality:\n\t'ORG_chest'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'Food_Fight_Charlie_Sprint_SHOOTING_RIGHT' has import animation warnings that
+      might lower retargeting quality:\n\t'ORG_chest' is inbetween humanoid transforms
+      and has rotation animation that will be discarded.\n\nClip 'Food_Fight_Charlie_Sprint_SHOOTING_LEFT'
+      has import animation warnings that might lower retargeting quality:\n\t'ORG_chest'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'Food_Fight_Charlie_Sprint_SHOOTING_BACK' has import animation warnings that
+      might lower retargeting quality:\n\t'ORG_chest' is inbetween humanoid transforms
+      and has rotation animation that will be discarded.\n\nClip 'Food_Fight_Charlie_Running_SHOOTING_FWD'
+      has import animation warnings that might lower retargeting quality:\n\t'ORG_chest'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'Food_Fight_Charlie_Running_SHOOTING_RIGHT' has import animation warnings that
+      might lower retargeting quality:\n\t'ORG_chest' is inbetween humanoid transforms
+      and has rotation animation that will be discarded.\n\nClip 'Food_Fight_Charlie_Running_SHOOTING_BACK'
+      has import animation warnings that might lower retargeting quality:\n\t'ORG_chest'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'Food_Fight_Charlie_Running_SHOOTING_LEFT' has import animation warnings that
+      might lower retargeting quality:\n\t'ORG_chest' is inbetween humanoid transforms
+      and has rotation animation that will be discarded.\n"
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Food_Fight_Charlie_Idle
+      takeName: Food_Fight_Charlie_Idle
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Food_Fight_Charlie_Clenching_Fist
+      takeName: Food_Fight_Charlie_Clenching_Fist
+      internalID: 0
+      firstFrame: 70
+      lastFrame: 120
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Food_Fight_Charlie_Idle_Weapon
+      takeName: Food_Fight_Charlie_Idle_Weapon
+      internalID: 0
+      firstFrame: 165
+      lastFrame: 225
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Food_Fight_Charlie_Ducking_Start
+      takeName: Food_Fight_Charlie_Ducking_Start
+      internalID: 0
+      firstFrame: 240
+      lastFrame: 260
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Food_Fight_Charlie_Ducking_Loop
+      takeName: Food_Fight_Charlie_Ducking_Loop
+      internalID: 0
+      firstFrame: 260
+      lastFrame: 280
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Food_Fight_Charlie_Ducking_End
+      takeName: Food_Fight_Charlie_Ducking_End
+      internalID: 0
+      firstFrame: 280
+      lastFrame: 295
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Food_Fight_Charlie_Dodge_Left
+      takeName: Food_Fight_Charlie_Dodge_Left
+      internalID: 0
+      firstFrame: 310
+      lastFrame: 345
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Food_Fight_Charlie_Dodge_Right
+      takeName: Food_Fight_Charlie_Dodge_Right
+      internalID: 0
+      firstFrame: 355
+      lastFrame: 390
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Food_Fight_Charlie_Getting_Hit
+      takeName: Food_Fight_Charlie_Getting_Hit
+      internalID: 0
+      firstFrame: 400
+      lastFrame: 435
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 399.84
+    - serializedVersion: 16
+      name: Food_Fight_Charlie_(Running) Take_Damage_Upper_Body_Only
+      takeName: Food_Fight_Charlie_(Running) Take_Damage_Upper_Body_Only
+      internalID: 0
+      firstFrame: 495
+      lastFrame: 517
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Food_Fight_Charlie_(Idle)_Shooting_Upper_Body
+      takeName: Food_Fight_Charlie_(Idle)_Shooting_Upper_Body
+      internalID: 0
+      firstFrame: 525
+      lastFrame: 534.3
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.19037119
+        functionName: TriggerFire
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 524.88
+    - serializedVersion: 16
+      name: Food_Fight_Charlie_(Running) Reloading_Upper_Body_Only
+      takeName: Food_Fight_Charlie_(Running) Reloading_Upper_Body_Only
+      internalID: 0
+      firstFrame: 580
+      lastFrame: 602
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Food_Fight_Charlie_(Running) Ducking_START_Upper_Body_Only
+      takeName: Food_Fight_Charlie_(Running) Ducking_START_Upper_Body_Only
+      internalID: 0
+      firstFrame: 610
+      lastFrame: 625
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Food_Fight_Charlie_(Running) Ducking_LOOP_Upper_Body_Only
+      takeName: Food_Fight_Charlie_(Running) Ducking_LOOP_Upper_Body_Only
+      internalID: 0
+      firstFrame: 625
+      lastFrame: 640
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Food_Fight_Charlie_(Running) Ducking_END_Upper_Body_Only
+      takeName: Food_Fight_Charlie_(Running) Ducking_END_Upper_Body_Only
+      internalID: 0
+      firstFrame: 640
+      lastFrame: 654
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Food_Fight_Charlie_Gun_Melee_Attack
+      takeName: Food_Fight_Charlie_Gun_Melee_Attack
+      internalID: 0
+      firstFrame: 660
+      lastFrame: 690
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Food_Fight_Charlie_Reload
+      takeName: Food_Fight_Charlie_Reload
+      internalID: 0
+      firstFrame: 700
+      lastFrame: 735
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.6895818
+        functionName: TriggerReload
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 699.83997
+    - serializedVersion: 16
+      name: Food_Fight_Charlie_Jump_START
+      takeName: Food_Fight_Charlie_Jump_START
+      internalID: 0
+      firstFrame: 750
+      lastFrame: 760
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Food_Fight_Charlie_Jump_LOOP
+      takeName: Food_Fight_Charlie_Jump_LOOP
+      internalID: 0
+      firstFrame: 760
+      lastFrame: 780
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0.3
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 759.83997
+    - serializedVersion: 16
+      name: Food_Fight_Charlie_Jump_END
+      takeName: Food_Fight_Charlie_Jump_END
+      internalID: 0
+      firstFrame: 780
+      lastFrame: 800
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0.5
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 780
+    - serializedVersion: 16
+      name: Food_Fight_Charlie_Death
+      takeName: Food_Fight_Charlie_Death
+      internalID: 0
+      firstFrame: 820
+      lastFrame: 871
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 819.83997
+    - serializedVersion: 16
+      name: Food_Fight_Charlie_Emote_01
+      takeName: Food_Fight_Charlie_Emote_01
+      internalID: 0
+      firstFrame: 910
+      lastFrame: 980
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Food_Fight_Charlie_Emote_02
+      takeName: Food_Fight_Charlie_Emote_02
+      internalID: 0
+      firstFrame: 990
+      lastFrame: 1035
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Food_Fight_Charlie_Emote_03
+      takeName: Food_Fight_Charlie_Emote_03
+      internalID: 0
+      firstFrame: 1040
+      lastFrame: 1105
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Food_Fight_Charlie_Obtain_New_Weapon
+      takeName: Food_Fight_Charlie_Obtain_New_Weapon
+      internalID: 0
+      firstFrame: 1110
+      lastFrame: 1150
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.26605433
+        functionName: TriggerDropWeapon
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.5412845
+        functionName: TriggerPickupWeapon
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1110
+    - serializedVersion: 16
+      name: Food_Fight_Charlie_Revive
+      takeName: Food_Fight_Charlie_Revive
+      internalID: 0
+      firstFrame: 1160
+      lastFrame: 1210
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Food_Fight_Charlie_Running_FWD
+      takeName: Food_Fight_Charlie_Running_FWD
+      internalID: 0
+      firstFrame: 1220
+      lastFrame: 1242
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0.1
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1219.92
+    - serializedVersion: 16
+      name: Food_Fight_Charlie_Running_RIGHT
+      takeName: Food_Fight_Charlie_Running_RIGHT
+      internalID: 0
+      firstFrame: 1245
+      lastFrame: 1267
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0.1
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1244.88
+    - serializedVersion: 16
+      name: Food_Fight_Charlie_Running_LEFT
+      takeName: Food_Fight_Charlie_Running_LEFT
+      internalID: 0
+      firstFrame: 1270
+      lastFrame: 1292
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0.1
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1269.84
+    - serializedVersion: 16
+      name: Food_Fight_Charlie_Running_BACKWARD
+      takeName: Food_Fight_Charlie_Running_BACKWARD
+      internalID: 0
+      firstFrame: 1295
+      lastFrame: 1317
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0.1
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1294.8
+    - serializedVersion: 16
+      name: Food_Fight_Charlie_Sprint_FWD
+      takeName: Food_Fight_Charlie_Sprint_FWD
+      internalID: 0
+      firstFrame: 1330
+      lastFrame: 1346
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0.1
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1329.84
+    - serializedVersion: 16
+      name: Food_Fight_Charlie_Sprint_RIGHT
+      takeName: Food_Fight_Charlie_Sprint_RIGHT
+      internalID: 0
+      firstFrame: 1350
+      lastFrame: 1366
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0.1
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1350
+    - serializedVersion: 16
+      name: Food_Fight_Charlie_Sprint_LEFT
+      takeName: Food_Fight_Charlie_Sprint_LEFT
+      internalID: 0
+      firstFrame: 1375
+      lastFrame: 1391
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0.1
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1374.96
+    - serializedVersion: 16
+      name: Food_Fight_Charlie_Sprint_BACK
+      takeName: Food_Fight_Charlie_Sprint_BACK
+      internalID: 0
+      firstFrame: 1400
+      lastFrame: 1416
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0.1
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1399.92
+    - serializedVersion: 16
+      name: Food_Fight_Charlie_Sprint_SHOOTING_FWD
+      takeName: Food_Fight_Charlie_Sprint_SHOOTING_FWD
+      internalID: 0
+      firstFrame: 1420
+      lastFrame: 1436
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Food_Fight_Charlie_Sprint_SHOOTING_RIGHT
+      takeName: Food_Fight_Charlie_Sprint_SHOOTING_RIGHT
+      internalID: 0
+      firstFrame: 1440
+      lastFrame: 1456
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Food_Fight_Charlie_Sprint_SHOOTING_LEFT
+      takeName: Food_Fight_Charlie_Sprint_SHOOTING_LEFT
+      internalID: 0
+      firstFrame: 1460
+      lastFrame: 1476
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1459.92
+    - serializedVersion: 16
+      name: Food_Fight_Charlie_Sprint_SHOOTING_BACK
+      takeName: Food_Fight_Charlie_Sprint_SHOOTING_BACK
+      internalID: 0
+      firstFrame: 1480
+      lastFrame: 1496
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1479.84
+    - serializedVersion: 16
+      name: Food_Fight_Charlie_Running_SHOOTING_FWD
+      takeName: Food_Fight_Charlie_Running_SHOOTING_FWD
+      internalID: 0
+      firstFrame: 1500
+      lastFrame: 1522
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Food_Fight_Charlie_Running_SHOOTING_RIGHT
+      takeName: Food_Fight_Charlie_Running_SHOOTING_RIGHT
+      internalID: 0
+      firstFrame: 1525
+      lastFrame: 1547
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Food_Fight_Charlie_Running_SHOOTING_BACK
+      takeName: Food_Fight_Charlie_Running_SHOOTING_BACK
+      internalID: 0
+      firstFrame: 1575
+      lastFrame: 1591
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Food_Fight_Charlie_Running_SHOOTING_LEFT
+      takeName: Food_Fight_Charlie_Running_SHOOTING_LEFT
+      internalID: 0
+      firstFrame: 1610
+      lastFrame: 1626
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Food_Fight_Charlie_Obtain_New_Modifier
+      takeName: Food_Fight_Charlie_Obtain_New_Weapon
+      internalID: 0
+      firstFrame: 1110
+      lastFrame: 1150
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.5419848
+        functionName: TriggerPickupModifier
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1110
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 10
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human:
+    - boneName: ORG_hips
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ORG_thigh_L
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ORG_thigh_R
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ORG_knee_L
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ORG_knee_R
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ORG_foot_L
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ORG_foot_R
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ORG_spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ORG_neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ORG_head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ORG_shoulder_L
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ORG_shoulder_R
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ORG_elbow_L
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ORG_elbow_R
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ORG_hand_L
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ORG_hand_R
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ORG_ball_L
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ORG_ball_R
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ORG_eyebow_04_L
+      humanName: LeftEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ORG_eyebow_04_R
+      humanName: RightEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ORG_jaw
+      humanName: Jaw
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ORG_thumb_01_L
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ORG_thumb_02_L
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ORG_thumb_03_L
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ORG_f_index_01_L
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ORG_f_index_02_L
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ORG_f_index_03_L
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ORG_f_ring_01_L
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ORG_f_ring_02_L
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ORG_f_ring_03_L
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ORG_f_pinky_01_L
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ORG_f_pinky_02_L
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ORG_f_pinky_03_L
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ORG_thumb_01_R
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ORG_thumb_02_R
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ORG_thumb_03_R
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ORG_f_index_01_R
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ORG_f_index_02_R
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ORG_f_index_03_R
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ORG_f_ring_01_R
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ORG_f_ring_02_R
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ORG_f_ring_03_R
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ORG_f_pinky_01_R
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ORG_f_pinky_02_R
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ORG_f_pinky_03_R
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: _Charley_Chucks_FBX_Animations_(Clone)
+      parentName: 
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Main
+      parentName: _Charley_Chucks_FBX_Animations_(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: jnt_offset
+      parentName: Main
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: root
+      parentName: jnt_offset
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ORG_hips
+      parentName: root
+      position: {x: 0, y: 0.41330028, z: 0.069305286}
+      rotation: {x: 0.4977257, y: -0.502264, z: -0.4977257, w: 0.5022641}
+      scale: {x: 1, y: 1, z: 1.0000002}
+    - name: ORG_spine
+      parentName: ORG_hips
+      position: {x: -0.20615597, y: 0.02370928, z: -1.3259795e-16}
+      rotation: {x: -0.7070995, y: 0.003209054, z: -0.0032091131, w: 0.70709956}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1}
+    - name: ORG_chest
+      parentName: ORG_spine
+      position: {x: -0.2224774, y: 4.6777725e-17, z: -0.008065991}
+      rotation: {x: -0, y: 0.000000036205165, z: 0.7071068, w: 0.70710677}
+      scale: {x: 0.99999994, y: 1.0000001, z: 0.99999964}
+    - name: ORG_shoulder_L
+      parentName: ORG_chest
+      position: {x: -0.17036068, y: 0.037821695, z: -0.076236434}
+      rotation: {x: -0.014814843, y: -0.031186154, z: -0.09675381, w: 0.9947094}
+      scale: {x: 0.99999994, y: 1, z: 1.0000001}
+    - name: ORG_elbow_L
+      parentName: ORG_shoulder_L
+      position: {x: -0.20747194, y: -0.049931142, z: 0.0010533169}
+      rotation: {x: 0.003676687, y: 0.045230772, z: 0.0843444, w: 0.99540275}
+      scale: {x: 1.0000001, y: 0.9999999, z: 1}
+    - name: ORG_hand_L
+      parentName: ORG_elbow_L
+      position: {x: -0.25003743, y: -0.017180204, z: 0.0075443764}
+      rotation: {x: -0.11672098, y: 0.98801315, z: -0.07825164, w: -0.06389818}
+      scale: {x: 1.0000004, y: 1.0000002, z: 1.0000004}
+    - name: Hold_Bone_L
+      parentName: ORG_hand_L
+      position: {x: 0.09903219, y: -0.046727102, z: -0.004220136}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ORG_thumb_01_L
+      parentName: ORG_hand_L
+      position: {x: 0.053965244, y: -0.024251213, z: -0.04237351}
+      rotation: {x: 0.56982154, y: -0.27368087, z: -0.036177322, w: -0.77401125}
+      scale: {x: 1.0000005, y: 1.0000005, z: 1.0000004}
+    - name: ORG_thumb_02_L
+      parentName: ORG_thumb_01_L
+      position: {x: 0.05343063, y: 0.018766155, z: 0.007157831}
+      rotation: {x: 0.001800745, y: -0.06509975, z: 0.13772216, w: 0.9883276}
+      scale: {x: 1.0000004, y: 1.0000001, z: 1.0000001}
+    - name: ORG_thumb_03_L
+      parentName: ORG_thumb_02_L
+      position: {x: 0.05605629, y: 0.000030124213, z: -0.0017207596}
+      rotation: {x: 0.000000118045136, y: 0.00000003259629, z: 0.000000047595677,
+        w: 1}
+      scale: {x: 1.0000002, y: 1, z: 1.0000005}
+    - name: ORG_thumb_04_L
+      parentName: ORG_thumb_03_L
+      position: {x: 0.06424469, y: 0.000031581203, z: -0.0021568807}
+      rotation: {x: 0.6489204, y: 0.0076353317, z: -0.0034603854, w: 0.76081014}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ORG_f_index_01_L
+      parentName: ORG_hand_L
+      position: {x: 0.13665831, y: 0.00993591, z: -0.044991206}
+      rotation: {x: -0.06684947, y: -0.010477596, z: 0.060851358, w: 0.9958506}
+      scale: {x: 1.0000004, y: 0.9999999, z: 1.0000007}
+    - name: ORG_f_index_02_L
+      parentName: ORG_f_index_01_L
+      position: {x: 0.050372347, y: -0.0005282236, z: 0.0014433428}
+      rotation: {x: -0.017398622, y: -0.023542242, z: -0.058002856, w: 0.9978872}
+      scale: {x: 1.0000002, y: 0.9999999, z: 0.99999994}
+    - name: ORG_f_index_03_L
+      parentName: ORG_f_index_02_L
+      position: {x: 0.04598759, y: 0.001801543, z: -0.0023453736}
+      rotation: {x: -0.000000020489095, y: -0, z: -0.00000014627584, w: 1}
+      scale: {x: 1.0000002, y: 1.0000001, z: 1}
+    - name: ORG_f_index_04_L
+      parentName: ORG_f_index_03_L
+      position: {x: 0.058067698, y: 0.0022751866, z: -0.002961402}
+      rotation: {x: -0.013282729, y: 0.025136901, z: 0.015079079, w: 0.99948204}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ORG_f_ring_01_L
+      parentName: ORG_hand_L
+      position: {x: 0.13691615, y: 0.013760281, z: 0.015927142}
+      rotation: {x: -0.009032291, y: -0.0925117, z: 0.09298181, w: 0.99131954}
+      scale: {x: 1.0000006, y: 1.0000004, z: 1.000001}
+    - name: ORG_f_ring_02_L
+      parentName: ORG_f_ring_01_L
+      position: {x: 0.054286093, y: -0.0059540896, z: -0.0034694283}
+      rotation: {x: 0.03394679, y: -0.014108279, z: 0.006817586, w: 0.9993008}
+      scale: {x: 1.0000002, y: 1, z: 1.0000005}
+    - name: ORG_f_ring_03_L
+      parentName: ORG_f_ring_02_L
+      position: {x: 0.0460175, y: -0.005290652, z: -0.00022733222}
+      rotation: {x: 0.00055593986, y: -0.000065602355, z: -0.036119923, w: 0.9993474}
+      scale: {x: 0.9999998, y: 1.0000001, z: 0.99999994}
+    - name: ORG_f_ring_04_L
+      parentName: ORG_f_ring_03_L
+      position: {x: 0.04712514, y: -0.005417832, z: -0.00023283667}
+      rotation: {x: 0.018860396, y: -0.006216638, z: -0.15697324, w: 0.9874032}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ORG_f_pinky_01_L
+      parentName: ORG_hand_L
+      position: {x: 0.11391887, y: -0.0052964734, z: 0.05959964}
+      rotation: {x: 0.10276107, y: -0.10985369, z: 0.08055153, w: 0.98533434}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1.0000007}
+    - name: ORG_f_pinky_02_L
+      parentName: ORG_f_pinky_01_L
+      position: {x: 0.03952572, y: -0.0021492294, z: -0.0010997496}
+      rotation: {x: 0.018245362, y: -0.012453268, z: -0.023056813, w: 0.99949014}
+      scale: {x: 0.99999994, y: 1.0000002, z: 1.0000002}
+    - name: ORG_f_pinky_03_L
+      parentName: ORG_f_pinky_02_L
+      position: {x: 0.044328317, y: -0.002583696, z: 0.00065065175}
+      rotation: {x: -0, y: -0.000000031664964, z: -0.000000055239063, w: 1}
+      scale: {x: 1.0000004, y: 1, z: 1.0000002}
+    - name: ORG_f_pinky_04_L
+      parentName: ORG_f_pinky_03_L
+      position: {x: 0.04339547, y: -0.0030489804, z: 0.00076723134}
+      rotation: {x: -0.005791591, y: -0.013869478, z: -0.042312235, w: 0.9989914}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ORG_shoulder_R
+      parentName: ORG_chest
+      position: {x: 0.17036073, y: 0.037821554, z: -0.07623612}
+      rotation: {x: 0.9947093, y: 0.09675401, z: -0.031185158, w: 0.0148148695}
+      scale: {x: 1, y: 1.0000004, z: 1.0000004}
+    - name: ORG_elbow_R
+      parentName: ORG_shoulder_R
+      position: {x: 0.20747152, y: 0.049931042, z: -0.0010531347}
+      rotation: {x: 0.0036769062, y: 0.04522985, z: 0.08434415, w: 0.9954028}
+      scale: {x: 1.0000001, y: 0.99999976, z: 0.9999999}
+    - name: ORG_hand_R
+      parentName: ORG_elbow_R
+      position: {x: 0.25003746, y: 0.017180465, z: -0.0075445888}
+      rotation: {x: -0.116721, y: 0.98801315, z: -0.0782517, w: -0.06389819}
+      scale: {x: 1, y: 1.0000001, z: 0.9999999}
+    - name: Hold_Bone_R
+      parentName: ORG_hand_R
+      position: {x: -0.09903263, y: 0.04672622, z: 0.0042202687}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ORG_thumb_01_R
+      parentName: ORG_hand_R
+      position: {x: -0.053965095, y: 0.024250576, z: 0.042373788}
+      rotation: {x: -0.5698219, y: 0.273684, z: 0.03617803, w: 0.7740099}
+      scale: {x: 0.9999999, y: 1.0000004, z: 1.0000002}
+    - name: ORG_thumb_02_R
+      parentName: ORG_thumb_01_R
+      position: {x: -0.053430744, y: -0.01876603, z: -0.0071579013}
+      rotation: {x: 0.0018014009, y: -0.065101326, z: 0.13771957, w: 0.9883278}
+      scale: {x: 1.0000002, y: 1, z: 1}
+    - name: ORG_thumb_03_R
+      parentName: ORG_thumb_02_R
+      position: {x: -0.05605632, y: -0.000030340163, z: 0.0017209002}
+      rotation: {x: 0.00000008987261, y: -0.00000002793967, z: 0.00000004836328, w: 1}
+      scale: {x: 1.0000001, y: 1.0000004, z: 1.0000004}
+    - name: ORG_thumb_04_R
+      parentName: ORG_thumb_03_R
+      position: {x: -0.06424515, y: -0.0000309361, z: 0.0021572327}
+      rotation: {x: 0.6489204, y: 0.0076353317, z: -0.0034603854, w: 0.76081014}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ORG_f_index_01_R
+      parentName: ORG_hand_R
+      position: {x: -0.13665901, y: -0.00993636, z: 0.044991232}
+      rotation: {x: -0.066848844, y: -0.010478177, z: 0.060849614, w: 0.99585074}
+      scale: {x: 1, y: 1.0000001, z: 1.0000002}
+    - name: ORG_f_index_02_R
+      parentName: ORG_f_index_01_R
+      position: {x: -0.05037214, y: 0.00052805763, z: -0.0014432712}
+      rotation: {x: -0.017398553, y: -0.023542503, z: -0.058002487, w: 0.99788713}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1.0000004}
+    - name: ORG_f_index_03_R
+      parentName: ORG_f_index_02_R
+      position: {x: -0.045987625, y: -0.0018015327, z: 0.002345413}
+      rotation: {x: 0.000000007450579, y: 0.000000016763803, z: -0.000000025960611,
+        w: 1}
+      scale: {x: 1.0000006, y: 1.0000007, z: 1.0000002}
+    - name: ORG_f_index_04_R
+      parentName: ORG_f_index_03_R
+      position: {x: -0.05806745, y: -0.0022754609, z: 0.0029614144}
+      rotation: {x: -0.013282729, y: 0.025136901, z: 0.015079079, w: 0.99948204}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ORG_f_ring_01_R
+      parentName: ORG_hand_R
+      position: {x: -0.13691619, y: -0.013760877, z: -0.015927054}
+      rotation: {x: -0.009032912, y: -0.09251106, z: 0.09298854, w: 0.991319}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1.0000005}
+    - name: ORG_f_ring_02_R
+      parentName: ORG_f_ring_01_R
+      position: {x: -0.05428628, y: 0.005954904, z: 0.0034693403}
+      rotation: {x: 0.033946518, y: -0.014109763, z: 0.00681172, w: 0.9993009}
+      scale: {x: 1.0000006, y: 1.0000001, z: 1.0000002}
+    - name: ORG_f_ring_03_R
+      parentName: ORG_f_ring_02_R
+      position: {x: -0.046017982, y: 0.005290033, z: 0.00022742992}
+      rotation: {x: 0.0005562079, y: -0.00006505751, z: -0.036112525, w: 0.99934757}
+      scale: {x: 0.99999994, y: 1.0000001, z: 1.0000002}
+    - name: ORG_f_ring_04_R
+      parentName: ORG_f_ring_03_R
+      position: {x: -0.04712486, y: 0.005417873, z: 0.00023291558}
+      rotation: {x: 0.018860396, y: -0.006216638, z: -0.15697324, w: 0.9874032}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ORG_f_pinky_01_R
+      parentName: ORG_hand_R
+      position: {x: -0.11391942, y: 0.005296334, z: -0.05960001}
+      rotation: {x: 0.102761135, y: -0.10985329, z: 0.08055113, w: 0.98533446}
+      scale: {x: 1, y: 1.0000001, z: 1.0000002}
+    - name: ORG_f_pinky_02_R
+      parentName: ORG_f_pinky_01_R
+      position: {x: -0.03952555, y: 0.0021491635, z: 0.0010997336}
+      rotation: {x: 0.018245531, y: -0.012451367, z: -0.02305355, w: 0.9994902}
+      scale: {x: 1, y: 1.0000001, z: 0.9999999}
+    - name: ORG_f_pinky_03_R
+      parentName: ORG_f_pinky_02_R
+      position: {x: -0.04432805, y: 0.0025843799, z: -0.00065058464}
+      rotation: {x: 0.000000027939674, y: 0.0000000018626449, z: 0.000000014988471,
+        w: 1}
+      scale: {x: 1, y: 1.0000001, z: 1.0000002}
+    - name: ORG_f_pinky_04_R
+      parentName: ORG_f_pinky_03_R
+      position: {x: -0.04339496, y: 0.003048813, z: -0.0007667022}
+      rotation: {x: -0.005791591, y: -0.013869478, z: -0.042312235, w: 0.9989914}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ORG_neck
+      parentName: ORG_chest
+      position: {x: -8.881785e-18, y: 0.16767365, z: -0.017559584}
+      rotation: {x: -4.939083e-10, y: -0.000000036699074, z: -0.7071068, w: 0.70710677}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1.0000001}
+    - name: ORG_head
+      parentName: ORG_neck
+      position: {x: -0.51848835, y: 1.1512754e-16, z: 0.083633505}
+      rotation: {x: -0.4059429, y: 0.36132696, z: 0.55811274, w: 0.6270274}
+      scale: {x: 1.0000007, y: 0.9999998, z: 1.0000014}
+    - name: upper_lip_01_root
+      parentName: ORG_head
+      position: {x: -0.19135097, y: -0.25806406, z: 0.09868091}
+      rotation: {x: 0.011452288, y: 0.20897457, z: 0.16631715, w: 0.9636063}
+      scale: {x: 1, y: 1, z: 1}
+    - name: upper_lip_01_tip
+      parentName: upper_lip_01_root
+      position: {x: -0.38355336, y: 0.011242492, z: 0.0000000060021597}
+      rotation: {x: -0.00000003632158, y: -0.7071069, z: -0.000000009313226, w: 0.70710677}
+      scale: {x: 0.9999997, y: 1, z: 1.0000001}
+    - name: upper_lip_02_root_L
+      parentName: ORG_head
+      position: {x: -0.19135097, y: -0.25806406, z: 0.09868091}
+      rotation: {x: 0.04180494, y: 0.028433893, z: 0.16138431, w: 0.98559576}
+      scale: {x: 1, y: 1, z: 1}
+    - name: upper_lip_02_tip_L
+      parentName: upper_lip_02_root_L
+      position: {x: -0.3869179, y: 0.011242492, z: -0.0000000010734081}
+      rotation: {x: -0.000000044703473, y: -0.7071068, z: 0.000000046566118, w: 0.7071068}
+      scale: {x: 0.99999976, y: 1, z: 1}
+    - name: upper_lip_04_root_L
+      parentName: ORG_head
+      position: {x: -0.19135097, y: -0.25806406, z: 0.09868091}
+      rotation: {x: 0.10467395, y: -0.34221444, z: 0.10288194, w: 0.9280883}
+      scale: {x: 1, y: 1, z: 1}
+    - name: upper_lip_04_tip_L
+      parentName: upper_lip_04_root_L
+      position: {x: -0.3843656, y: 0.011242494, z: -0.000000014282442}
+      rotation: {x: -0.00000008568168, y: -0.7071068, z: 0.000000059604645, w: 0.7071068}
+      scale: {x: 0.99999994, y: 1.0000001, z: 0.9999999}
+    - name: upper_lip_03_root_L
+      parentName: ORG_head
+      position: {x: -0.19135097, y: -0.25806406, z: 0.09868091}
+      rotation: {x: 0.07726427, y: -0.17014664, z: 0.12885357, w: 0.97389793}
+      scale: {x: 1, y: 1, z: 1}
+    - name: upper_lip_03_tip_L
+      parentName: upper_lip_03_root_L
+      position: {x: -0.3577575, y: 0.011242493, z: -0.000000008677949}
+      rotation: {x: -0.00000010430813, y: -0.7071069, z: 0.000000052154064, w: 0.70710677}
+      scale: {x: 1.0000002, y: 1.0000001, z: 1.0000001}
+    - name: upper_lip_02_root_R
+      parentName: ORG_head
+      position: {x: -0.1913505, y: -0.25806543, z: 0.098680794}
+      rotation: {x: 0.3824051, y: 0.019290015, z: 0.908831, w: -0.1655912}
+      scale: {x: 1, y: 1, z: 1}
+    - name: upper_lip_02_tip_R
+      parentName: upper_lip_02_root_R
+      position: {x: 0.3869176, y: -0.011247608, z: 0.0000006378666}
+      rotation: {x: -0.00000004470348, y: -0.70710677, z: -0.000000026077029, w: 0.7071068}
+      scale: {x: 0.9999998, y: 1, z: 1.0000002}
+    - name: upper_lip_03_root_R
+      parentName: ORG_head
+      position: {x: -0.1913505, y: -0.25806543, z: 0.098680794}
+      rotation: {x: 0.5572903, y: 0.064313345, z: 0.8157432, w: -0.14090528}
+      scale: {x: 1, y: 1, z: 1}
+    - name: upper_lip_03_tip_R
+      parentName: upper_lip_03_root_R
+      position: {x: 0.35775778, y: -0.0112421885, z: 0.00000014530542}
+      rotation: {x: -0.000000111758695, y: -0.70710677, z: -0.000000014901159, w: 0.7071068}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+    - name: upper_lip_04_root_R
+      parentName: ORG_head
+      position: {x: -0.1913505, y: -0.25806543, z: 0.098680794}
+      rotation: {x: 0.69442856, y: 0.09770731, z: 0.70269257, w: -0.1201891}
+      scale: {x: 1, y: 1, z: 1}
+    - name: upper_lip_04_tip_R
+      parentName: upper_lip_04_root_R
+      position: {x: 0.38436595, y: -0.011247486, z: 0.0000004845905}
+      rotation: {x: 0.000000052154054, y: -0.7071067, z: -0.000000029802315, w: 0.7071068}
+      scale: {x: 1.0000002, y: 1.0000005, z: 1.0000005}
+    - name: cheek_jnt_R
+      parentName: ORG_head
+      position: {x: -0.03973927, y: -0.19125246, z: 0.5551796}
+      rotation: {x: 0.9887203, y: 0.057493065, z: 0.13806635, w: -0.008028434}
+      scale: {x: 0.9999998, y: 0.99999964, z: 0.9999998}
+    - name: cheek_jnt_L
+      parentName: ORG_head
+      position: {x: -0.43109417, y: -0.23691978, z: -0.32312122}
+      rotation: {x: 0.04917041, y: -0.8455939, z: 0.030857325, w: 0.53066087}
+      scale: {x: 1.0000002, y: 1, z: 1}
+    - name: ORG_eyebow_01_L
+      parentName: ORG_head
+      position: {x: -0.69818467, y: 0.25511977, z: 0.12312423}
+      rotation: {x: 0.03154823, y: -0.54254174, z: 0.048730016, w: 0.8380207}
+      scale: {x: 0.9999996, y: 1, z: 1.0000002}
+    - name: ORG_eyebow_02_L
+      parentName: ORG_head
+      position: {x: -0.70037186, y: 0.26070625, z: 0.052205168}
+      rotation: {x: 0.03154823, y: -0.54254174, z: 0.048730016, w: 0.8380207}
+      scale: {x: 0.9999996, y: 1, z: 1.0000002}
+    - name: ORG_eyebow_03_L
+      parentName: ORG_head
+      position: {x: -0.68436, y: 0.24982202, z: -0.046168465}
+      rotation: {x: 0.03154823, y: -0.54254174, z: 0.048730016, w: 0.8380207}
+      scale: {x: 0.9999996, y: 1, z: 1.0000002}
+    - name: ORG_eyebow_04_L
+      parentName: ORG_head
+      position: {x: -0.6490316, y: 0.23067467, z: -0.13194938}
+      rotation: {x: 0.03154823, y: -0.54254174, z: 0.048730016, w: 0.8380207}
+      scale: {x: 0.9999996, y: 1, z: 1.0000002}
+    - name: ORG_eyebow_01_R
+      parentName: ORG_head
+      position: {x: -0.56857413, y: 0.27024278, z: 0.41400397}
+      rotation: {x: 0.8380207, y: 0.048730012, z: 0.54254174, w: -0.03154823}
+      scale: {x: 0.9999996, y: 1.0000005, z: 1.0000008}
+    - name: ORG_eyebow_02_R
+      parentName: ORG_head
+      position: {x: -0.51764023, y: 0.2820257, z: 0.46229976}
+      rotation: {x: 0.8380207, y: 0.048730012, z: 0.54254174, w: -0.03154823}
+      scale: {x: 0.9999996, y: 1.0000005, z: 1.0000008}
+    - name: ORG_eyebow_03_R
+      parentName: ORG_head
+      position: {x: -0.433523, y: 0.27909568, z: 0.5167753}
+      rotation: {x: 0.8380207, y: 0.048730012, z: 0.54254174, w: -0.03154823}
+      scale: {x: 0.9999996, y: 1.0000005, z: 1.0000008}
+    - name: ORG_eyebow_04_R
+      parentName: ORG_head
+      position: {x: -0.34549552, y: 0.26609093, z: 0.54926294}
+      rotation: {x: 0.8380207, y: 0.048730012, z: 0.54254174, w: -0.03154823}
+      scale: {x: 0.9999996, y: 1.0000005, z: 1.0000008}
+    - name: ORG_eyes_L
+      parentName: ORG_head
+      position: {x: -0.47789615, y: -0.0069857487, z: -0.036678236}
+      rotation: {x: 0.03154823, y: -0.54254174, z: 0.048730016, w: 0.8380207}
+      scale: {x: 0.9999999, y: 0.99999994, z: 1}
+    - name: ORG_upper_eyelid_01_root_L
+      parentName: ORG_eyes_L
+      position: {x: -0.0000000059604646, y: 0.023681132, z: -4.4408918e-16}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ORG_upper_eyelid_01_tip_L
+      parentName: ORG_upper_eyelid_01_root_L
+      position: {x: 0.03677434, y: 0.07719999, z: 0.15134068}
+      rotation: {x: -0.0002532769, y: -0.056732595, z: 0.005913386, w: 0.9983719}
+      scale: {x: 0.9999999, y: 1, z: 1.0000001}
+    - name: ORG_upper_eyelid_02_root_L
+      parentName: ORG_eyes_L
+      position: {x: -0.0000000059604646, y: 0.023681132, z: -4.4408918e-16}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ORG_upper_eyelid_02_tip_L
+      parentName: ORG_upper_eyelid_02_root_L
+      position: {x: -0.0466387, y: 0.12692699, z: 0.10858462}
+      rotation: {x: -0.0002532769, y: -0.056732595, z: 0.005913386, w: 0.9983719}
+      scale: {x: 0.9999999, y: 1, z: 1.0000001}
+    - name: ORG_upper_eyelid_03_root_L
+      parentName: ORG_eyes_L
+      position: {x: -0.0000000059604646, y: 0.023681132, z: -4.4408918e-16}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ORG_upper_eyelid_03_tip_L
+      parentName: ORG_upper_eyelid_03_root_L
+      position: {x: -0.09796981, y: 0.069179505, z: 0.060075212}
+      rotation: {x: -0.0002532769, y: -0.056732595, z: 0.005913386, w: 0.9983719}
+      scale: {x: 0.9999999, y: 1, z: 1.0000001}
+    - name: ORG_center_eyelid_01_root_L
+      parentName: ORG_eyes_L
+      position: {x: -0.0000000059604646, y: 0.023681132, z: -4.4408918e-16}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ORG_center_eyelid_01_tip_L
+      parentName: ORG_center_eyelid_01_root_L
+      position: {x: 0.07848086, y: -0.020649927, z: 0.1444647}
+      rotation: {x: -0.0002532769, y: -0.056732595, z: 0.005913386, w: 0.9983719}
+      scale: {x: 0.9999999, y: 1, z: 1.0000001}
+    - name: ORG_center_eyelid_02_root_L
+      parentName: ORG_eyes_L
+      position: {x: -0.0000000059604646, y: 0.023681132, z: -4.4408918e-16}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ORG_center_eyelid_02_tip_L
+      parentName: ORG_center_eyelid_02_root_L
+      position: {x: -0.11240667, y: -0.012629444, z: 0.045450885}
+      rotation: {x: -0.0002532769, y: -0.056732595, z: 0.005913386, w: 0.9983719}
+      scale: {x: 0.9999999, y: 1, z: 1.0000001}
+    - name: ORG_lower_eyelid_01_root_L
+      parentName: ORG_eyes_L
+      position: {x: -0.0000000059604646, y: 0.023681132, z: -4.4408918e-16}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ORG_lower_eyelid_01_tip_L
+      parentName: ORG_lower_eyelid_01_root_L
+      position: {x: -0.024181344, y: -0.14897768, z: 0.10858462}
+      rotation: {x: -0.0002532769, y: -0.056732595, z: 0.005913386, w: 0.9983719}
+      scale: {x: 0.9999999, y: 1, z: 1.0000001}
+    - name: ORG_lower_eyelid_02_root_L
+      parentName: ORG_eyes_L
+      position: {x: -0.0000000059604646, y: 0.023681132, z: -4.4408918e-16}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ORG_lower_eyelid_02_tip_L
+      parentName: ORG_lower_eyelid_02_root_L
+      position: {x: 0.044794828, y: -0.11368756, z: 0.13101596}
+      rotation: {x: -0.0002532769, y: -0.056732595, z: 0.005913386, w: 0.9983719}
+      scale: {x: 0.9999999, y: 1, z: 1.0000001}
+    - name: ORG_lower_eyelid_03_root_L
+      parentName: ORG_eyes_L
+      position: {x: -0.0000000059604646, y: 0.023681132, z: -4.4408918e-16}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ORG_lower_eyelid_03_tip_L
+      parentName: ORG_lower_eyelid_03_root_L
+      position: {x: -0.09155342, y: -0.089626096, z: 0.062044423}
+      rotation: {x: -0.0002532769, y: -0.056732595, z: 0.005913386, w: 0.9983719}
+      scale: {x: 0.9999999, y: 1, z: 1.0000001}
+    - name: ORG_eyes_R
+      parentName: ORG_head
+      position: {x: -0.29244226, y: 0.0146555, z: 0.37952834}
+      rotation: {x: 0.8380207, y: 0.048730012, z: 0.54254174, w: -0.03154823}
+      scale: {x: 0.9999999, y: 0.99999976, z: 1.0000001}
+    - name: ORG_upper_eyelid_01_root_R
+      parentName: ORG_eyes_R
+      position: {x: -4.440892e-17, y: -0.02368, z: 8.881784e-17}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ORG_upper_eyelid_01_tip_R
+      parentName: ORG_upper_eyelid_01_root_R
+      position: {x: -0.036774002, y: -0.0772, z: -0.15134}
+      rotation: {x: -0.00015718304, y: 0.05655276, z: -0.005839091, w: 0.99838257}
+      scale: {x: 0.99999964, y: 1.0000001, z: 1.0000002}
+    - name: ORG_upper_eyelid_02_root_R
+      parentName: ORG_eyes_R
+      position: {x: -4.440892e-17, y: -0.02368, z: 8.881784e-17}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ORG_upper_eyelid_02_tip_R
+      parentName: ORG_upper_eyelid_02_root_R
+      position: {x: 0.046639, y: -0.12693, z: -0.108584}
+      rotation: {x: -0.00015718304, y: 0.05655276, z: -0.005839091, w: 0.99838257}
+      scale: {x: 0.99999964, y: 1.0000001, z: 1.0000002}
+    - name: ORG_upper_eyelid_03_root_R
+      parentName: ORG_eyes_R
+      position: {x: -4.440892e-17, y: -0.02368, z: 8.881784e-17}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ORG_upper_eyelid_03_tip_R
+      parentName: ORG_upper_eyelid_03_root_R
+      position: {x: 0.09797001, y: -0.069180004, z: -0.060075004}
+      rotation: {x: -0.00015718304, y: 0.05655276, z: -0.005839091, w: 0.99838257}
+      scale: {x: 0.99999964, y: 1.0000001, z: 1.0000002}
+    - name: ORG_center_eyelid_01_root_R
+      parentName: ORG_eyes_R
+      position: {x: -4.440892e-17, y: -0.02368, z: 8.881784e-17}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ORG_center_eyelid_01_tip_R
+      parentName: ORG_center_eyelid_01_root_R
+      position: {x: -0.078480996, y: 0.02065, z: -0.144464}
+      rotation: {x: -0.00015718304, y: 0.05655276, z: -0.005839091, w: 0.99838257}
+      scale: {x: 0.99999964, y: 1.0000001, z: 1.0000002}
+    - name: ORG_center_eyelid_02_root_R
+      parentName: ORG_eyes_R
+      position: {x: -4.440892e-17, y: -0.02368, z: 8.881784e-17}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ORG_center_eyelid_02_tip_R
+      parentName: ORG_center_eyelid_02_root_R
+      position: {x: 0.112407, y: 0.012630001, z: -0.045451}
+      rotation: {x: -0.00015718304, y: 0.05655276, z: -0.005839091, w: 0.99838257}
+      scale: {x: 0.99999964, y: 1.0000001, z: 1.0000002}
+    - name: ORG_lower_eyelid_01_root_R
+      parentName: ORG_eyes_R
+      position: {x: -4.440892e-17, y: -0.02368, z: 8.881784e-17}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ORG_lower_eyelid_01_tip_R
+      parentName: ORG_lower_eyelid_01_root_R
+      position: {x: 0.024181997, y: 0.14897999, z: -0.108584}
+      rotation: {x: -0.00015718304, y: 0.05655276, z: -0.005839091, w: 0.99838257}
+      scale: {x: 0.99999964, y: 1.0000001, z: 1.0000002}
+    - name: ORG_lower_eyelid_02_root_R
+      parentName: ORG_eyes_R
+      position: {x: -4.440892e-17, y: -0.02368, z: 8.881784e-17}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ORG_lower_eyelid_02_tip_R
+      parentName: ORG_lower_eyelid_02_root_R
+      position: {x: -0.044795003, y: 0.11368999, z: -0.131016}
+      rotation: {x: -0.00015718304, y: 0.05655276, z: -0.005839091, w: 0.99838257}
+      scale: {x: 0.99999964, y: 1.0000001, z: 1.0000002}
+    - name: ORG_lower_eyelid_03_root_R
+      parentName: ORG_eyes_R
+      position: {x: -4.440892e-17, y: -0.02368, z: 8.881784e-17}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ORG_lower_eyelid_03_tip_R
+      parentName: ORG_lower_eyelid_03_root_R
+      position: {x: 0.09155399, y: 0.08963, z: -0.062044}
+      rotation: {x: -0.00015718304, y: 0.05655276, z: -0.005839091, w: 0.99838257}
+      scale: {x: 0.99999964, y: 1.0000001, z: 1.0000002}
+    - name: ORG_hair_01_strand_root
+      parentName: ORG_head
+      position: {x: -0.18595743, y: 0.5024103, z: 0.47142392}
+      rotation: {x: 0.132332, y: -0.3981853, z: -0.18450178, w: 0.88876086}
+      scale: {x: 0.9999999, y: 1, z: 1}
+    - name: ORG_hair_01_strand_02
+      parentName: ORG_hair_01_strand_root
+      position: {x: -0.3298044, y: 0.000000009596221, z: -0.000000015451429}
+      rotation: {x: -0.010219536, y: 0.030859914, z: 0.2041924, w: 0.97839093}
+      scale: {x: 1.0000001, y: 1, z: 0.9999999}
+    - name: ORG_hair_01_strand_03
+      parentName: ORG_hair_01_strand_02
+      position: {x: -0.33066118, y: -0.13, z: 1.5099034e-15}
+      rotation: {x: 0.0061861356, y: 0.12958653, z: 0.15967982, w: 0.9786069}
+      scale: {x: 1.0000001, y: 1.0000002, z: 0.9999999}
+    - name: ORG_hair_01_strand_04
+      parentName: ORG_hair_01_strand_03
+      position: {x: -0.34749228, y: -1.4210855e-15, z: -4.4408918e-16}
+      rotation: {x: 0.0108913295, y: 0.09546058, z: -0.09525657, w: 0.9908052}
+      scale: {x: 1.0000002, y: 0.9999999, z: 0.99999976}
+    - name: ORG_hair_01_strand_05
+      parentName: ORG_hair_01_strand_04
+      position: {x: -0.343483, y: -7.1054275e-16, z: -5.6066265e-16}
+      rotation: {x: 0.012459945, y: -0.069104485, z: -0.1944075, w: 0.9784044}
+      scale: {x: 0.9999998, y: 1, z: 1.0000005}
+    - name: ORG_hair_01_strand_tip
+      parentName: ORG_hair_01_strand_05
+      position: {x: -0.28796455, y: 3.5527137e-16, z: 0}
+      rotation: {x: 0.060348384, y: -0.31848383, z: 0.1761214, w: 0.92946625}
+      scale: {x: 0.9999996, y: 1.0000001, z: 1.0000001}
+    - name: ORG_hair_02_strand_root
+      parentName: ORG_head
+      position: {x: 0.0006486162, y: 0.5393289, z: 0.40359402}
+      rotation: {x: 0.11435345, y: -0.47700012, z: -0.28283417, w: 0.8242566}
+      scale: {x: 1.0000001, y: 1, z: 1.0000004}
+    - name: ORG_hair_02_strand_02
+      parentName: ORG_hair_02_strand_root
+      position: {x: -0.32758594, y: 0.000000011304326, z: -0.000000015732166}
+      rotation: {x: -0.12824526, y: -0.008243561, z: 0.21803026, w: 0.96744406}
+      scale: {x: 0.99999994, y: 1.0000002, z: 0.99999976}
+    - name: ORG_hair_02_strand_03
+      parentName: ORG_hair_02_strand_02
+      position: {x: -0.34144518, y: -0.046735577, z: -0.028468236}
+      rotation: {x: -0.0014127715, y: 0.017688312, z: 0.25405216, w: 0.9670277}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: ORG_hair_02_strand_04
+      parentName: ORG_hair_02_strand_03
+      position: {x: -0.28618088, y: -0.05514207, z: 0.041774668}
+      rotation: {x: 0.032432023, y: 0.11448986, z: 0.22393064, w: 0.9673134}
+      scale: {x: 1.0000002, y: 0.9999998, z: 0.9999999}
+    - name: ORG_hair_02_strand_05
+      parentName: ORG_hair_02_strand_04
+      position: {x: -0.31537518, y: -1.0658141e-15, z: -1.7763569e-16}
+      rotation: {x: -0.0057276306, y: 0.06468395, z: -0.15598643, w: 0.9856224}
+      scale: {x: 1, y: 1.0000002, z: 1.0000002}
+    - name: ORG_hair_02_strand_06
+      parentName: ORG_hair_02_strand_05
+      position: {x: -0.23214516, y: 1.4210855e-15, z: 8.881784e-17}
+      rotation: {x: 0.10310178, y: 0.0147711765, z: -0.3281205, w: 0.9388764}
+      scale: {x: 1.0000002, y: 1.0000001, z: 1}
+    - name: ORG_hair_02_strand_07
+      parentName: ORG_hair_02_strand_06
+      position: {x: -0.24561842, y: 0.0018234443, z: -0.014361046}
+      rotation: {x: 0.21391514, y: -0.2840202, z: 0.16904226, w: 0.9192375}
+      scale: {x: 0.9999998, y: 0.99999994, z: 1.0000002}
+    - name: ORG_hair_04_strand_root
+      parentName: ORG_head
+      position: {x: 0.23999633, y: 0.5904296, z: 0.38564274}
+      rotation: {x: -0.23472774, y: 0.7845328, z: -0.46004358, w: 0.34317803}
+      scale: {x: 1.0000004, y: 1.0000001, z: 1.0000004}
+    - name: ORG_hair_04_strand_02
+      parentName: ORG_hair_04_strand_root
+      position: {x: -0.12660234, y: 0.0000000039286325, z: 0.00000001030961}
+      rotation: {x: -0.06844462, y: -0.028971009, z: -0.040333826, w: 0.99641824}
+      scale: {x: 0.9999998, y: 0.99999994, z: 0.9999997}
+    - name: ORG_hair_04_strand_03
+      parentName: ORG_hair_04_strand_02
+      position: {x: -0.10465537, y: 9.769963e-16, z: -7.1054275e-16}
+      rotation: {x: -0.025183218, y: 0.006318359, z: -0.15588388, w: 0.9874341}
+      scale: {x: 1.0000007, y: 1.0000001, z: 1.0000002}
+    - name: ORG_hair_04_strand_tip
+      parentName: ORG_hair_04_strand_03
+      position: {x: -0.13675682, y: 6.5503154e-16, z: 5.3290707e-16}
+      rotation: {x: 0.403163, y: -0.7556616, z: -0.24297242, w: -0.45541131}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1.0000004}
+    - name: ORG_hair_03_strand_root
+      parentName: ORG_head
+      position: {x: 0.07721118, y: 0.50403696, z: 0.39256358}
+      rotation: {x: -0.5487011, y: 0.81362563, z: 0.16438544, w: 0.09958897}
+      scale: {x: 1.0000005, y: 1.0000001, z: 1.0000006}
+    - name: ORG_hair_03_strand_02
+      parentName: ORG_hair_03_strand_root
+      position: {x: -0.1725222, y: 0, z: -4.440892e-17}
+      rotation: {x: 0.07674123, y: -0.15791397, z: -0.053607106, w: -0.98300576}
+      scale: {x: 1.0000012, y: 1, z: 1.0000004}
+    - name: ORG_hair_03_strand_03
+      parentName: ORG_hair_03_strand_02
+      position: {x: -0.11629553, y: -0.000000013278722, z: -0.000000002389001}
+      rotation: {x: 0.11735165, y: 0.1914038, z: -0.067197144, w: 0.97215104}
+      scale: {x: 1, y: 1.0000005, z: 1}
+    - name: ORG_hair_03_strand_04
+      parentName: ORG_hair_03_strand_03
+      position: {x: -0.11458679, y: -5.3290707e-16, z: 0}
+      rotation: {x: -0.088311836, y: 0.13265191, z: 0.044194225, w: 0.9862309}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1.0000001}
+    - name: ORG_hair_03_strand_tip
+      parentName: ORG_hair_03_strand_04
+      position: {x: -0.15737566, y: -3.5527137e-16, z: 1.7763569e-16}
+      rotation: {x: -0.18211693, y: 0.4029396, z: 0.36940485, w: 0.81732076}
+      scale: {x: 1.0000002, y: 1, z: 1.0000002}
+    - name: ORG_jaw
+      parentName: ORG_head
+      position: {x: 0.005410946, y: -0.25363332, z: 0.010776931}
+      rotation: {x: 0.037439074, y: 0.20591219, z: 0.28525838, w: 0.9353214}
+      scale: {x: 1.0000006, y: 1.0000001, z: 0.9999998}
+    - name: lower_lip_01_root
+      parentName: ORG_jaw
+      position: {x: -0.18246922, y: 0.11474741, z: -5.246784e-16}
+      rotation: {x: 0, y: 0, z: 0.11425226, w: 0.9934518}
+      scale: {x: 1, y: 1, z: 1}
+    - name: upper_lip_01_tip 1
+      parentName: lower_lip_01_root
+      position: {x: -0.39319828, y: 0.011242484, z: 0.0000000060021597}
+      rotation: {x: -0.0000000745058, y: -0.70710695, z: -0.00000006705522, w: 0.70710677}
+      scale: {x: 0.9999998, y: 1.0000002, z: 0.9999999}
+    - name: lower_lip_02_root
+      parentName: ORG_jaw
+      position: {x: -0.18246922, y: 0.11474741, z: -5.246784e-16}
+      rotation: {x: 0.024415642, y: -0.21230006, z: 0.11161297, w: 0.9705025}
+      scale: {x: 1, y: 1, z: 1}
+    - name: upper_lip_02_tip
+      parentName: lower_lip_02_root
+      position: {x: -0.37271485, y: 0.011242484, z: -0.0000000030358833}
+      rotation: {x: -0.00000009313224, y: -0.7071067, z: -0.000000009313225, w: 0.707107}
+      scale: {x: 1.0000001, y: 1.0000002, z: 0.9999999}
+    - name: lower_lip_03_root
+      parentName: ORG_jaw
+      position: {x: -0.18246922, y: 0.11474741, z: -5.246784e-16}
+      rotation: {x: 0.055588506, y: -0.4451207, z: 0.093460694, w: 0.8888434}
+      scale: {x: 1, y: 1, z: 1}
+    - name: upper_lip_03_tip
+      parentName: lower_lip_03_root
+      position: {x: -0.34177116, y: 0.011242484, z: -0.000000012717497}
+      rotation: {x: -0.00000008568168, y: -0.7071068, z: 0.000000074505806, w: 0.70710677}
+      scale: {x: 1.0000002, y: 1.0000001, z: 1.0000001}
+    - name: lower_lip_02_root1
+      parentName: ORG_jaw
+      position: {x: -0.18246959, y: 0.11474602, z: 8.40347e-16}
+      rotation: {x: 0.21230008, y: 0.024415644, z: 0.97050256, w: -0.111612976}
+      scale: {x: 1, y: 1, z: 1}
+    - name: upper_lip_02_tip 1
+      parentName: lower_lip_02_root1
+      position: {x: 0.3727163, y: -0.011241741, z: -0.0000006940435}
+      rotation: {x: 0.00000016856937, y: -0.7071068, z: -0.000000076368444, w: 0.7071068}
+      scale: {x: 1, y: 1.0000007, z: 1.0000008}
+    - name: lower_lip_03_root1
+      parentName: ORG_jaw
+      position: {x: -0.18246959, y: 0.11474602, z: 8.40347e-16}
+      rotation: {x: 0.4451207, y: 0.055588506, z: 0.8888434, w: -0.093460694}
+      scale: {x: 1, y: 1, z: 1}
+    - name: upper_lip_03_tip 1
+      parentName: lower_lip_03_root1
+      position: {x: 0.3417724, y: -0.011239797, z: -0.0000019290808}
+      rotation: {x: -0.00000005029142, y: -0.70710677, z: -0.000000052154064, w: 0.7071069}
+      scale: {x: 1, y: 1.0000006, z: 1.0000004}
+    - name: ORG_chin
+      parentName: ORG_jaw
+      position: {x: -0.53979784, y: -0.024263194, z: -1.3706485e-16}
+      rotation: {x: -0.16666569, y: -0.6871845, z: -0.16666575, w: 0.68718445}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ORG_tongue_root
+      parentName: ORG_jaw
+      position: {x: -0.23558994, y: -0.06315074, z: -6.3076134e-15}
+      rotation: {x: 0.000000014901159, y: -0.00000004470348, z: -0.24516314, w: 0.9694818}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+    - name: ORG_tongue_02
+      parentName: ORG_tongue_root
+      position: {x: -0.10795983, y: 0.000000005895546, z: 0.0000000060021583}
+      rotation: {x: 0.0000001100897, y: 0.000000043845496, z: 0.04430595, w: 0.9990181}
+      scale: {x: 1.0000006, y: 1.0000001, z: 1.0000005}
+    - name: ORG_tongue_03
+      parentName: ORG_tongue_02
+      position: {x: -0.12341275, y: -5.3290707e-16, z: 5.870304e-16}
+      rotation: {x: -0.000000077829334, y: -0.0000000442299, z: 0.016928751, w: 0.99985677}
+      scale: {x: 1.0000001, y: 0.99999994, z: 1.0000002}
+    - name: ORG_tongue_tip
+      parentName: ORG_tongue_03
+      position: {x: -0.104518384, y: 9.992007e-16, z: 3.0941204e-18}
+      rotation: {x: -0.024339639, y: -0.7066878, z: -0.024339639, w: 0.7066878}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ORG_nose_root
+      parentName: ORG_head
+      position: {x: -0.51774985, y: -0.2199443, z: 0.24213639}
+      rotation: {x: -0.014558893, y: 0.2087812, z: 0.045499805, w: 0.97679496}
+      scale: {x: 1.0000006, y: 0.9999998, z: 0.9999998}
+    - name: ORG_nose_tip
+      parentName: ORG_nose_root
+      position: {x: -0.17575434, y: -2.359224e-17, z: 3.9025303e-17}
+      rotation: {x: 0.008157305, y: -0.70705974, z: 0.008157236, w: 0.7070598}
+      scale: {x: 0.9999999, y: 1, z: 0.99999976}
+    - name: ORG_thigh_R
+      parentName: ORG_hips
+      position: {x: -0.036347438, y: 0.0064665885, z: -0.194654}
+      rotation: {x: -0.99172187, y: 0.039034933, z: 0.11252394, w: -0.0479836}
+      scale: {x: 1.0000002, y: 1.0000001, z: 1}
+    - name: ORG_knee_R
+      parentName: ORG_thigh_R
+      position: {x: 0.20854749, y: -0.03344721, z: -0.023819134}
+      rotation: {x: -0.0019732192, y: 0.029636169, z: 0.06640515, w: 0.99735063}
+      scale: {x: 0.9999999, y: 1.0000002, z: 1.0000004}
+    - name: ORG_foot_R
+      parentName: ORG_knee_R
+      position: {x: 0.22155204, y: 0.051390838, z: 0.0010614814}
+      rotation: {x: -0.023333808, y: -0.11604224, z: 0.7158873, w: -0.6881099}
+      scale: {x: 1.0000007, y: 1.0000011, z: 1.0000006}
+    - name: ORG_ball_R
+      parentName: ORG_foot_R
+      position: {x: 0.1324148, y: -0.0000000024310705, z: -0.0000001568079}
+      rotation: {x: -0.000000030733638, y: -0.000000089406946, z: -0.07597153, w: 0.99711007}
+      scale: {x: 1.0000004, y: 1.0000008, z: 1.0000005}
+    - name: ORG_toe_R
+      parentName: ORG_ball_R
+      position: {x: 0.20429853, y: -0.00000001567967, z: -0.0000000381459}
+      rotation: {x: 0.60353935, y: -0.41038093, z: -0.5168389, w: 0.4474431}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ORG_thigh_L
+      parentName: ORG_hips
+      position: {x: -0.036347438, y: 0.0064665885, z: 0.194654}
+      rotation: {x: 0.03903496, y: 0.9917218, z: 0.047984265, w: 0.11252399}
+      scale: {x: 1.0000002, y: 1.0000008, z: 1.0000002}
+    - name: ORG_knee_L
+      parentName: ORG_thigh_L
+      position: {x: -0.20854715, y: 0.033447232, z: 0.02381916}
+      rotation: {x: -0.0019732353, y: 0.02963605, z: 0.066404924, w: 0.99735063}
+      scale: {x: 1.0000005, y: 1.0000005, z: 1}
+    - name: ORG_foot_L
+      parentName: ORG_knee_L
+      position: {x: -0.22155237, y: -0.051390816, z: -0.0010615339}
+      rotation: {x: 0.023334173, y: 0.1160427, z: -0.7158872, w: 0.6881099}
+      scale: {x: 1.0000002, y: 0.99999994, z: 1.0000007}
+    - name: ORG_ball_L
+      parentName: ORG_foot_L
+      position: {x: -0.132415, y: 0.000000034337837, z: 0.000000077476685}
+      rotation: {x: -0.000000004656613, y: -0.000000022351742, z: -0.07597133, w: 0.99711007}
+      scale: {x: 1.0000002, y: 0.99999994, z: 1.0000005}
+    - name: ORG_toe_L
+      parentName: ORG_ball_L
+      position: {x: -0.20429815, y: -0.000000020049761, z: -0.000000019254387}
+      rotation: {x: 0.60353935, y: -0.41038093, z: -0.5168389, w: 0.4474431}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Geometry
+      parentName: _Charley_Chucks_FBX_Animations_(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GEO_Charley_Arms
+      parentName: Geometry
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GEO_Charley_Body
+      parentName: Geometry
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GEO_Charley_Ears
+      parentName: Geometry
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GEO_Charley_Eyebrows
+      parentName: Geometry
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GEO_Charley_Eyes
+      parentName: Geometry
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GEO_Charley_Hair_01
+      parentName: Geometry
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GEO_Charley_Hair_02
+      parentName: Geometry
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GEO_Charley_Hair_03
+      parentName: Geometry
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GEO_Charley_Hair_04
+      parentName: Geometry
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GEO_Charley_Hair_05
+      parentName: Geometry
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GEO_Charley_Pants
+      parentName: Geometry
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GEO_Charley_Shirt
+      parentName: Geometry
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GEO_Charley_Shoes
+      parentName: Geometry
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GEO_Charley_Teeth
+      parentName: Geometry
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GEO_Charley_Tongue
+      parentName: Geometry
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 10
+    rootMotionBoneName: 
+    hasTranslationDoF: 1
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 3
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &276843130929719306
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 2125947911370285158, guid: b9ca2c360e52fd74d94853e1a47e25b6,
+        type: 3}
+      propertyPath: m_Radius
+      value: 0.7
+      objectReference: {fileID: 0}
+    - target: {fileID: 5024745041341442887, guid: b9ca2c360e52fd74d94853e1a47e25b6,
+        type: 3}
+      propertyPath: m_Name
+      value: OnionShot_Pickup
+      objectReference: {fileID: 0}
+    - target: {fileID: 7309858179792818263, guid: b9ca2c360e52fd74d94853e1a47e25b6,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7309858179792818263, guid: b9ca2c360e52fd74d94853e1a47e25b6,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7309858179792818263, guid: b9ca2c360e52fd74d94853e1a47e25b6,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7309858179792818263, guid: b9ca2c360e52fd74d94853e1a47e25b6,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8792862733400112253, guid: b9ca2c360e52fd74d94853e1a47e25b6,
+        type: 3}
+      propertyPath: Prefab
+      value: 
+      objectReference: {fileID: -1799591381724036030, guid: 09e77694089d1184384a0ecdfd87eded,
+        type: 3}
+    - target: {fileID: 8792862733400112253, guid: b9ca2c360e52fd74d94853e1a47e25b6,
+        type: 3}
+      propertyPath: ScaleOffset.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8792862733400112253, guid: b9ca2c360e52fd74d94853e1a47e25b6,
+        type: 3}
+      propertyPath: ScaleOffset.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8792862733400112253, guid: b9ca2c360e52fd74d94853e1a47e25b6,
+        type: 3}
+      propertyPath: ScaleOffset.z
+      value: 0.5
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: b9ca2c360e52fd74d94853e1a47e25b6, type: 3}

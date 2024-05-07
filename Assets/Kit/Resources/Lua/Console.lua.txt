@@ -1,0 +1,69 @@
+-- Logging
+function print(line)
+	Kit.Console.Log(line)
+end
+
+function list(object)
+	if type(object) == "table" and typeof(object) ~= nil then
+		Kit.Console.List(typeof(object))
+	else
+		Kit.Console.Log(object)
+	end
+end
+
+function clear()
+	Kit.Console.ClearLog()
+end
+cls = clear
+
+-- GameObject handling
+function go(path, comp)
+	if type(path) == "string" then
+		if comp == nil then
+			return UE.GameObject.Find(path)
+		else
+			return UE.GameObject.Find(path):GetComponent(typeof(comp))
+		end
+	else
+		return UE.GameObject.FindObjectOfType(typeof(path))
+	end
+end
+
+function gos(tag)
+	if type(tag) == "string" then
+		return UE.GameObject.FindGameObjectsWithTag(tag)
+	else
+		return UE.GameObject.FindObjectsOfType(typeof(tag))
+	end
+end
+
+function newGO(name, ...)
+	local go = UE.GameObject(name)
+	for k, v in pairs({...}) do
+		go:AddComponent(typeof(v))
+	end
+	return go
+end
+
+function instantiate(path)
+	local prefab = UE.Resources.Load(path)
+	if prefab ~= nil then
+		return UE.GameObject.Instantiate(prefab);
+	else
+		return nil
+	end
+end
+
+function destroy(arg1, arg2)
+	if type(arg1) == "userdata" then
+		if arg1.Length == nil then
+			UE.GameObject.Destroy(arg1)
+		else
+			for i=0, arg1.Length-1 do
+				UE.GameObject.Destroy(arg1[i])
+			end
+		end
+	else
+		UE.GameObject.Destroy(go(arg1, arg2))
+	end
+end

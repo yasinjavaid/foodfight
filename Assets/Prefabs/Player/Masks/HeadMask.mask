@@ -1,0 +1,358 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: HeadMask
+  m_Mask: 00000000000000000100000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Geometry
+    m_Weight: 1
+  - m_Path: Geometry/GEO_Charley_Chucks_Grp
+    m_Weight: 1
+  - m_Path: Geometry/GEO_Charley_Chucks_Grp/GEO_Charley_Arms
+    m_Weight: 1
+  - m_Path: Geometry/GEO_Charley_Chucks_Grp/GEO_Charley_Body
+    m_Weight: 1
+  - m_Path: Geometry/GEO_Charley_Chucks_Grp/GEO_Charley_Ears
+    m_Weight: 1
+  - m_Path: Geometry/GEO_Charley_Chucks_Grp/GEO_Charley_Eyebrows
+    m_Weight: 1
+  - m_Path: Geometry/GEO_Charley_Chucks_Grp/GEO_Charley_Eyes
+    m_Weight: 1
+  - m_Path: Geometry/GEO_Charley_Chucks_Grp/GEO_Charley_Hair_01
+    m_Weight: 1
+  - m_Path: Geometry/GEO_Charley_Chucks_Grp/GEO_Charley_Hair_02
+    m_Weight: 1
+  - m_Path: Geometry/GEO_Charley_Chucks_Grp/GEO_Charley_Hair_03
+    m_Weight: 1
+  - m_Path: Geometry/GEO_Charley_Chucks_Grp/GEO_Charley_Hair_04
+    m_Weight: 1
+  - m_Path: Geometry/GEO_Charley_Chucks_Grp/GEO_Charley_Hair_05
+    m_Weight: 1
+  - m_Path: Geometry/GEO_Charley_Chucks_Grp/GEO_Charley_Pants
+    m_Weight: 1
+  - m_Path: Geometry/GEO_Charley_Chucks_Grp/GEO_Charley_Shirt
+    m_Weight: 1
+  - m_Path: Geometry/GEO_Charley_Chucks_Grp/GEO_Charley_Shoes
+    m_Weight: 1
+  - m_Path: Geometry/GEO_Charley_Chucks_Grp/GEO_Charley_Teeth
+    m_Weight: 1
+  - m_Path: Geometry/GEO_Charley_Chucks_Grp/GEO_Charley_Tongue
+    m_Weight: 1
+  - m_Path: Main
+    m_Weight: 1
+  - m_Path: Main/jnt_offset
+    m_Weight: 1
+  - m_Path: Main/jnt_offset/root
+    m_Weight: 1
+  - m_Path: Main/jnt_offset/root/ORG_hips
+    m_Weight: 1
+  - m_Path: Main/jnt_offset/root/ORG_hips/ORG_spine
+    m_Weight: 1
+  - m_Path: Main/jnt_offset/root/ORG_hips/ORG_spine/ORG_chest
+    m_Weight: 1
+  - m_Path: Main/jnt_offset/root/ORG_hips/ORG_spine/ORG_chest/ORG_neck
+    m_Weight: 1
+  - m_Path: Main/jnt_offset/root/ORG_hips/ORG_spine/ORG_chest/ORG_neck/ORG_head
+    m_Weight: 1
+  - m_Path: Main/jnt_offset/root/ORG_hips/ORG_spine/ORG_chest/ORG_neck/ORG_head/cheek_jnt_L
+    m_Weight: 1
+  - m_Path: Main/jnt_offset/root/ORG_hips/ORG_spine/ORG_chest/ORG_neck/ORG_head/cheek_jnt_R
+    m_Weight: 1
+  - m_Path: Main/jnt_offset/root/ORG_hips/ORG_spine/ORG_chest/ORG_neck/ORG_head/ORG_eyebow_01_L
+    m_Weight: 1
+  - m_Path: Main/jnt_offset/root/ORG_hips/ORG_spine/ORG_chest/ORG_neck/ORG_head/ORG_eyebow_01_R
+    m_Weight: 1
+  - m_Path: Main/jnt_offset/root/ORG_hips/ORG_spine/ORG_chest/ORG_neck/ORG_head/ORG_eyebow_02_L
+    m_Weight: 1
+  - m_Path: Main/jnt_offset/root/ORG_hips/ORG_spine/ORG_chest/ORG_neck/ORG_head/ORG_eyebow_02_R
+    m_Weight: 1
+  - m_Path: Main/jnt_offset/root/ORG_hips/ORG_spine/ORG_chest/ORG_neck/ORG_head/ORG_eyebow_03_L
+    m_Weight: 1
+  - m_Path: Main/jnt_offset/root/ORG_hips/ORG_spine/ORG_chest/ORG_neck/ORG_head/ORG_eyebow_03_R
+    m_Weight: 1
+  - m_Path: Main/jnt_offset/root/ORG_hips/ORG_spine/ORG_chest/ORG_neck/ORG_head/ORG_eyebow_04_L
+    m_Weight: 1
+  - m_Path: Main/jnt_offset/root/ORG_hips/ORG_spine/ORG_chest/ORG_neck/ORG_head/ORG_eyebow_04_R
+    m_Weight: 1
+  - m_Path: Main/jnt_offset/root/ORG_hips/ORG_spine/ORG_chest/ORG_neck/ORG_head/ORG_eyes_L
+    m_Weight: 1
+  - m_Path: Main/jnt_offset/root/ORG_hips/ORG_spine/ORG_chest/ORG_neck/ORG_head/ORG_eyes_L/ORG_center_eyelid_01_root_L
+    m_Weight: 1
+  - m_Path: Main/jnt_offset/root/ORG_hips/ORG_spine/ORG_chest/ORG_neck/ORG_head/ORG_eyes_L/ORG_center_eyelid_01_root_L/ORG_center_eyelid_01_tip_L
+    m_Weight: 1
+  - m_Path: Main/jnt_offset/root/ORG_hips/ORG_spine/ORG_chest/ORG_neck/ORG_head/ORG_eyes_L/ORG_center_eyelid_02_root_L
+    m_Weight: 1
+  - m_Path: Main/jnt_offset/root/ORG_hips/ORG_spine/ORG_chest/ORG_neck/ORG_head/ORG_eyes_L/ORG_center_eyelid_02_root_L/ORG_center_eyelid_02_tip_L
+    m_Weight: 1
+  - m_Path: Main/jnt_offset/root/ORG_hips/ORG_spine/ORG_chest/ORG_neck/ORG_head/ORG_eyes_L/ORG_lower_eyelid_01_root_L
+    m_Weight: 1
+  - m_Path: Main/jnt_offset/root/ORG_hips/ORG_spine/ORG_chest/ORG_neck/ORG_head/ORG_eyes_L/ORG_lower_eyelid_01_root_L/ORG_lower_eyelid_01_tip_L
+    m_Weight: 1
+  - m_Path: Main/jnt_offset/root/ORG_hips/ORG_spine/ORG_chest/ORG_neck/ORG_head/ORG_eyes_L/ORG_lower_eyelid_02_root_L
+    m_Weight: 1
+  - m_Path: Main/jnt_offset/root/ORG_hips/ORG_spine/ORG_chest/ORG_neck/ORG_head/ORG_eyes_L/ORG_lower_eyelid_02_root_L/ORG_lower_eyelid_02_tip_L
+    m_Weight: 1
+  - m_Path: Main/jnt_offset/root/ORG_hips/ORG_spine/ORG_chest/ORG_neck/ORG_head/ORG_eyes_L/ORG_lower_eyelid_03_root_L
+    m_Weight: 1
+  - m_Path: Main/jnt_offset/root/ORG_hips/ORG_spine/ORG_chest/ORG_neck/ORG_head/ORG_eyes_L/ORG_lower_eyelid_03_root_L/ORG_lower_eyelid_03_tip_L
+    m_Weight: 1
+  - m_Path: Main/jnt_offset/root/ORG_hips/ORG_spine/ORG_chest/ORG_neck/ORG_head/ORG_eyes_L/ORG_upper_eyelid_01_root_L
+    m_Weight: 1
+  - m_Path: Main/jnt_offset/root/ORG_hips/ORG_spine/ORG_chest/ORG_neck/ORG_head/ORG_eyes_L/ORG_upper_eyelid_01_root_L/ORG_upper_eyelid_01_tip_L
+    m_Weight: 1
+  - m_Path: Main/jnt_offset/root/ORG_hips/ORG_spine/ORG_chest/ORG_neck/ORG_head/ORG_eyes_L/ORG_upper_eyelid_02_root_L
+    m_Weight: 1
+  - m_Path: Main/jnt_offset/root/ORG_hips/ORG_spine/ORG_chest/ORG_neck/ORG_head/ORG_eyes_L/ORG_upper_eyelid_02_root_L/ORG_upper_eyelid_02_tip_L
+    m_Weight: 1
+  - m_Path: Main/jnt_offset/root/ORG_hips/ORG_spine/ORG_chest/ORG_neck/ORG_head/ORG_eyes_L/ORG_upper_eyelid_03_root_L
+    m_Weight: 1
+  - m_Path: Main/jnt_offset/root/ORG_hips/ORG_spine/ORG_chest/ORG_neck/ORG_head/ORG_eyes_L/ORG_upper_eyelid_03_root_L/ORG_upper_eyelid_03_tip_L
+    m_Weight: 1
+  - m_Path: Main/jnt_offset/root/ORG_hips/ORG_spine/ORG_chest/ORG_neck/ORG_head/ORG_eyes_R
+    m_Weight: 1
+  - m_Path: Main/jnt_offset/root/ORG_hips/ORG_spine/ORG_chest/ORG_neck/ORG_head/ORG_eyes_R/ORG_center_eyelid_01_root_R
+    m_Weight: 1
+  - m_Path: Main/jnt_offset/root/ORG_hips/ORG_spine/ORG_chest/ORG_neck/ORG_head/ORG_eyes_R/ORG_center_eyelid_01_root_R/ORG_center_eyelid_01_tip_R
+    m_Weight: 1
+  - m_Path: Main/jnt_offset/root/ORG_hips/ORG_spine/ORG_chest/ORG_neck/ORG_head/ORG_eyes_R/ORG_center_eyelid_02_root_R
+    m_Weight: 1
+  - m_Path: Main/jnt_offset/root/ORG_hips/ORG_spine/ORG_chest/ORG_neck/ORG_head/ORG_eyes_R/ORG_center_eyelid_02_root_R/ORG_center_eyelid_02_tip_R
+    m_Weight: 1
+  - m_Path: Main/jnt_offset/root/ORG_hips/ORG_spine/ORG_chest/ORG_neck/ORG_head/ORG_eyes_R/ORG_lower_eyelid_01_root_R
+    m_Weight: 1
+  - m_Path: Main/jnt_offset/root/ORG_hips/ORG_spine/ORG_chest/ORG_neck/ORG_head/ORG_eyes_R/ORG_lower_eyelid_01_root_R/ORG_lower_eyelid_01_tip_R
+    m_Weight: 1
+  - m_Path: Main/jnt_offset/root/ORG_hips/ORG_spine/ORG_chest/ORG_neck/ORG_head/ORG_eyes_R/ORG_lower_eyelid_02_root_R
+    m_Weight: 1
+  - m_Path: Main/jnt_offset/root/ORG_hips/ORG_spine/ORG_chest/ORG_neck/ORG_head/ORG_eyes_R/ORG_lower_eyelid_02_root_R/ORG_lower_eyelid_02_tip_R
+    m_Weight: 1
+  - m_Path: Main/jnt_offset/root/ORG_hips/ORG_spine/ORG_chest/ORG_neck/ORG_head/ORG_eyes_R/ORG_lower_eyelid_03_root_R
+    m_Weight: 1
+  - m_Path: Main/jnt_offset/root/ORG_hips/ORG_spine/ORG_chest/ORG_neck/ORG_head/ORG_eyes_R/ORG_lower_eyelid_03_root_R/ORG_lower_eyelid_03_tip_R
+    m_Weight: 1
+  - m_Path: Main/jnt_offset/root/ORG_hips/ORG_spine/ORG_chest/ORG_neck/ORG_head/ORG_eyes_R/ORG_upper_eyelid_01_root_R
+    m_Weight: 1
+  - m_Path: Main/jnt_offset/root/ORG_hips/ORG_spine/ORG_chest/ORG_neck/ORG_head/ORG_eyes_R/ORG_upper_eyelid_01_root_R/ORG_upper_eyelid_01_tip_R
+    m_Weight: 1
+  - m_Path: Main/jnt_offset/root/ORG_hips/ORG_spine/ORG_chest/ORG_neck/ORG_head/ORG_eyes_R/ORG_upper_eyelid_02_root_R
+    m_Weight: 1
+  - m_Path: Main/jnt_offset/root/ORG_hips/ORG_spine/ORG_chest/ORG_neck/ORG_head/ORG_eyes_R/ORG_upper_eyelid_02_root_R/ORG_upper_eyelid_02_tip_R
+    m_Weight: 1
+  - m_Path: Main/jnt_offset/root/ORG_hips/ORG_spine/ORG_chest/ORG_neck/ORG_head/ORG_eyes_R/ORG_upper_eyelid_03_root_R
+    m_Weight: 1
+  - m_Path: Main/jnt_offset/root/ORG_hips/ORG_spine/ORG_chest/ORG_neck/ORG_head/ORG_eyes_R/ORG_upper_eyelid_03_root_R/ORG_upper_eyelid_03_tip_R
+    m_Weight: 1
+  - m_Path: Main/jnt_offset/root/ORG_hips/ORG_spine/ORG_chest/ORG_neck/ORG_head/ORG_hair_01_strand_root
+    m_Weight: 1
+  - m_Path: Main/jnt_offset/root/ORG_hips/ORG_spine/ORG_chest/ORG_neck/ORG_head/ORG_hair_01_strand_root/ORG_hair_01_strand_02
+    m_Weight: 1
+  - m_Path: Main/jnt_offset/root/ORG_hips/ORG_spine/ORG_chest/ORG_neck/ORG_head/ORG_hair_01_strand_root/ORG_hair_01_strand_02/ORG_hair_01_strand_03
+    m_Weight: 1
+  - m_Path: Main/jnt_offset/root/ORG_hips/ORG_spine/ORG_chest/ORG_neck/ORG_head/ORG_hair_01_strand_root/ORG_hair_01_strand_02/ORG_hair_01_strand_03/ORG_hair_01_strand_04
+    m_Weight: 1
+  - m_Path: Main/jnt_offset/root/ORG_hips/ORG_spine/ORG_chest/ORG_neck/ORG_head/ORG_hair_01_strand_root/ORG_hair_01_strand_02/ORG_hair_01_strand_03/ORG_hair_01_strand_04/ORG_hair_01_strand_05
+    m_Weight: 1
+  - m_Path: Main/jnt_offset/root/ORG_hips/ORG_spine/ORG_chest/ORG_neck/ORG_head/ORG_hair_01_strand_root/ORG_hair_01_strand_02/ORG_hair_01_strand_03/ORG_hair_01_strand_04/ORG_hair_01_strand_05/ORG_hair_01_strand_tip
+    m_Weight: 1
+  - m_Path: Main/jnt_offset/root/ORG_hips/ORG_spine/ORG_chest/ORG_neck/ORG_head/ORG_hair_02_strand_root
+    m_Weight: 1
+  - m_Path: Main/jnt_offset/root/ORG_hips/ORG_spine/ORG_chest/ORG_neck/ORG_head/ORG_hair_02_strand_root/ORG_hair_02_strand_02
+    m_Weight: 1
+  - m_Path: Main/jnt_offset/root/ORG_hips/ORG_spine/ORG_chest/ORG_neck/ORG_head/ORG_hair_02_strand_root/ORG_hair_02_strand_02/ORG_hair_02_strand_03
+    m_Weight: 1
+  - m_Path: Main/jnt_offset/root/ORG_hips/ORG_spine/ORG_chest/ORG_neck/ORG_head/ORG_hair_02_strand_root/ORG_hair_02_strand_02/ORG_hair_02_strand_03/ORG_hair_02_strand_04
+    m_Weight: 1
+  - m_Path: Main/jnt_offset/root/ORG_hips/ORG_spine/ORG_chest/ORG_neck/ORG_head/ORG_hair_02_strand_root/ORG_hair_02_strand_02/ORG_hair_02_strand_03/ORG_hair_02_strand_04/ORG_hair_02_strand_05
+    m_Weight: 1
+  - m_Path: Main/jnt_offset/root/ORG_hips/ORG_spine/ORG_chest/ORG_neck/ORG_head/ORG_hair_02_strand_root/ORG_hair_02_strand_02/ORG_hair_02_strand_03/ORG_hair_02_strand_04/ORG_hair_02_strand_05/ORG_hair_02_strand_06
+    m_Weight: 1
+  - m_Path: Main/jnt_offset/root/ORG_hips/ORG_spine/ORG_chest/ORG_neck/ORG_head/ORG_hair_02_strand_root/ORG_hair_02_strand_02/ORG_hair_02_strand_03/ORG_hair_02_strand_04/ORG_hair_02_strand_05/ORG_hair_02_strand_06/ORG_hair_02_strand_07
+    m_Weight: 1
+  - m_Path: Main/jnt_offset/root/ORG_hips/ORG_spine/ORG_chest/ORG_neck/ORG_head/ORG_hair_03_strand_root
+    m_Weight: 1
+  - m_Path: Main/jnt_offset/root/ORG_hips/ORG_spine/ORG_chest/ORG_neck/ORG_head/ORG_hair_03_strand_root/ORG_hair_03_strand_02
+    m_Weight: 1
+  - m_Path: Main/jnt_offset/root/ORG_hips/ORG_spine/ORG_chest/ORG_neck/ORG_head/ORG_hair_03_strand_root/ORG_hair_03_strand_02/ORG_hair_03_strand_03
+    m_Weight: 1
+  - m_Path: Main/jnt_offset/root/ORG_hips/ORG_spine/ORG_chest/ORG_neck/ORG_head/ORG_hair_03_strand_root/ORG_hair_03_strand_02/ORG_hair_03_strand_03/ORG_hair_03_strand_04
+    m_Weight: 1
+  - m_Path: Main/jnt_offset/root/ORG_hips/ORG_spine/ORG_chest/ORG_neck/ORG_head/ORG_hair_03_strand_root/ORG_hair_03_strand_02/ORG_hair_03_strand_03/ORG_hair_03_strand_04/ORG_hair_03_strand_tip
+    m_Weight: 1
+  - m_Path: Main/jnt_offset/root/ORG_hips/ORG_spine/ORG_chest/ORG_neck/ORG_head/ORG_hair_04_strand_root
+    m_Weight: 1
+  - m_Path: Main/jnt_offset/root/ORG_hips/ORG_spine/ORG_chest/ORG_neck/ORG_head/ORG_hair_04_strand_root/ORG_hair_04_strand_02
+    m_Weight: 1
+  - m_Path: Main/jnt_offset/root/ORG_hips/ORG_spine/ORG_chest/ORG_neck/ORG_head/ORG_hair_04_strand_root/ORG_hair_04_strand_02/ORG_hair_04_strand_03
+    m_Weight: 1
+  - m_Path: Main/jnt_offset/root/ORG_hips/ORG_spine/ORG_chest/ORG_neck/ORG_head/ORG_hair_04_strand_root/ORG_hair_04_strand_02/ORG_hair_04_strand_03/ORG_hair_04_strand_tip
+    m_Weight: 1
+  - m_Path: Main/jnt_offset/root/ORG_hips/ORG_spine/ORG_chest/ORG_neck/ORG_head/ORG_jaw
+    m_Weight: 1
+  - m_Path: Main/jnt_offset/root/ORG_hips/ORG_spine/ORG_chest/ORG_neck/ORG_head/ORG_jaw/lower_lip_01_root
+    m_Weight: 1
+  - m_Path: Main/jnt_offset/root/ORG_hips/ORG_spine/ORG_chest/ORG_neck/ORG_head/ORG_jaw/lower_lip_01_root/upper_lip_01_tip
+      1
+    m_Weight: 1
+  - m_Path: Main/jnt_offset/root/ORG_hips/ORG_spine/ORG_chest/ORG_neck/ORG_head/ORG_jaw/lower_lip_02_root
+    m_Weight: 1
+  - m_Path: Main/jnt_offset/root/ORG_hips/ORG_spine/ORG_chest/ORG_neck/ORG_head/ORG_jaw/lower_lip_02_root/upper_lip_02_tip
+    m_Weight: 1
+  - m_Path: Main/jnt_offset/root/ORG_hips/ORG_spine/ORG_chest/ORG_neck/ORG_head/ORG_jaw/lower_lip_02_root1
+    m_Weight: 1
+  - m_Path: Main/jnt_offset/root/ORG_hips/ORG_spine/ORG_chest/ORG_neck/ORG_head/ORG_jaw/lower_lip_02_root1/upper_lip_02_tip
+      1
+    m_Weight: 1
+  - m_Path: Main/jnt_offset/root/ORG_hips/ORG_spine/ORG_chest/ORG_neck/ORG_head/ORG_jaw/lower_lip_03_root
+    m_Weight: 1
+  - m_Path: Main/jnt_offset/root/ORG_hips/ORG_spine/ORG_chest/ORG_neck/ORG_head/ORG_jaw/lower_lip_03_root/upper_lip_03_tip
+    m_Weight: 1
+  - m_Path: Main/jnt_offset/root/ORG_hips/ORG_spine/ORG_chest/ORG_neck/ORG_head/ORG_jaw/lower_lip_03_root1
+    m_Weight: 1
+  - m_Path: Main/jnt_offset/root/ORG_hips/ORG_spine/ORG_chest/ORG_neck/ORG_head/ORG_jaw/lower_lip_03_root1/upper_lip_03_tip
+      1
+    m_Weight: 1
+  - m_Path: Main/jnt_offset/root/ORG_hips/ORG_spine/ORG_chest/ORG_neck/ORG_head/ORG_jaw/ORG_chin
+    m_Weight: 1
+  - m_Path: Main/jnt_offset/root/ORG_hips/ORG_spine/ORG_chest/ORG_neck/ORG_head/ORG_jaw/ORG_tongue_root
+    m_Weight: 1
+  - m_Path: Main/jnt_offset/root/ORG_hips/ORG_spine/ORG_chest/ORG_neck/ORG_head/ORG_jaw/ORG_tongue_root/ORG_tongue_02
+    m_Weight: 1
+  - m_Path: Main/jnt_offset/root/ORG_hips/ORG_spine/ORG_chest/ORG_neck/ORG_head/ORG_jaw/ORG_tongue_root/ORG_tongue_02/ORG_tongue_03
+    m_Weight: 1
+  - m_Path: Main/jnt_offset/root/ORG_hips/ORG_spine/ORG_chest/ORG_neck/ORG_head/ORG_jaw/ORG_tongue_root/ORG_tongue_02/ORG_tongue_03/ORG_tongue_tip
+    m_Weight: 1
+  - m_Path: Main/jnt_offset/root/ORG_hips/ORG_spine/ORG_chest/ORG_neck/ORG_head/ORG_nose_root
+    m_Weight: 1
+  - m_Path: Main/jnt_offset/root/ORG_hips/ORG_spine/ORG_chest/ORG_neck/ORG_head/ORG_nose_root/ORG_nose_tip
+    m_Weight: 1
+  - m_Path: Main/jnt_offset/root/ORG_hips/ORG_spine/ORG_chest/ORG_neck/ORG_head/upper_lip_01_root
+    m_Weight: 1
+  - m_Path: Main/jnt_offset/root/ORG_hips/ORG_spine/ORG_chest/ORG_neck/ORG_head/upper_lip_01_root/upper_lip_01_tip
+    m_Weight: 1
+  - m_Path: Main/jnt_offset/root/ORG_hips/ORG_spine/ORG_chest/ORG_neck/ORG_head/upper_lip_02_root_L
+    m_Weight: 1
+  - m_Path: Main/jnt_offset/root/ORG_hips/ORG_spine/ORG_chest/ORG_neck/ORG_head/upper_lip_02_root_L/upper_lip_02_tip_L
+    m_Weight: 1
+  - m_Path: Main/jnt_offset/root/ORG_hips/ORG_spine/ORG_chest/ORG_neck/ORG_head/upper_lip_02_root_R
+    m_Weight: 1
+  - m_Path: Main/jnt_offset/root/ORG_hips/ORG_spine/ORG_chest/ORG_neck/ORG_head/upper_lip_02_root_R/upper_lip_02_tip_R
+    m_Weight: 1
+  - m_Path: Main/jnt_offset/root/ORG_hips/ORG_spine/ORG_chest/ORG_neck/ORG_head/upper_lip_03_root_L
+    m_Weight: 1
+  - m_Path: Main/jnt_offset/root/ORG_hips/ORG_spine/ORG_chest/ORG_neck/ORG_head/upper_lip_03_root_L/upper_lip_03_tip_L
+    m_Weight: 1
+  - m_Path: Main/jnt_offset/root/ORG_hips/ORG_spine/ORG_chest/ORG_neck/ORG_head/upper_lip_03_root_R
+    m_Weight: 1
+  - m_Path: Main/jnt_offset/root/ORG_hips/ORG_spine/ORG_chest/ORG_neck/ORG_head/upper_lip_03_root_R/upper_lip_03_tip_R
+    m_Weight: 1
+  - m_Path: Main/jnt_offset/root/ORG_hips/ORG_spine/ORG_chest/ORG_neck/ORG_head/upper_lip_04_root_L
+    m_Weight: 1
+  - m_Path: Main/jnt_offset/root/ORG_hips/ORG_spine/ORG_chest/ORG_neck/ORG_head/upper_lip_04_root_L/upper_lip_04_tip_L
+    m_Weight: 1
+  - m_Path: Main/jnt_offset/root/ORG_hips/ORG_spine/ORG_chest/ORG_neck/ORG_head/upper_lip_04_root_R
+    m_Weight: 1
+  - m_Path: Main/jnt_offset/root/ORG_hips/ORG_spine/ORG_chest/ORG_neck/ORG_head/upper_lip_04_root_R/upper_lip_04_tip_R
+    m_Weight: 1
+  - m_Path: Main/jnt_offset/root/ORG_hips/ORG_spine/ORG_chest/ORG_shoulder_L
+    m_Weight: 1
+  - m_Path: Main/jnt_offset/root/ORG_hips/ORG_spine/ORG_chest/ORG_shoulder_L/ORG_elbow_L
+    m_Weight: 1
+  - m_Path: Main/jnt_offset/root/ORG_hips/ORG_spine/ORG_chest/ORG_shoulder_L/ORG_elbow_L/ORG_hand_L
+    m_Weight: 1
+  - m_Path: Main/jnt_offset/root/ORG_hips/ORG_spine/ORG_chest/ORG_shoulder_L/ORG_elbow_L/ORG_hand_L/ORG_f_index_01_L
+    m_Weight: 1
+  - m_Path: Main/jnt_offset/root/ORG_hips/ORG_spine/ORG_chest/ORG_shoulder_L/ORG_elbow_L/ORG_hand_L/ORG_f_index_01_L/ORG_f_index_02_L
+    m_Weight: 1
+  - m_Path: Main/jnt_offset/root/ORG_hips/ORG_spine/ORG_chest/ORG_shoulder_L/ORG_elbow_L/ORG_hand_L/ORG_f_index_01_L/ORG_f_index_02_L/ORG_f_index_03_L
+    m_Weight: 1
+  - m_Path: Main/jnt_offset/root/ORG_hips/ORG_spine/ORG_chest/ORG_shoulder_L/ORG_elbow_L/ORG_hand_L/ORG_f_index_01_L/ORG_f_index_02_L/ORG_f_index_03_L/ORG_f_index_04_L
+    m_Weight: 1
+  - m_Path: Main/jnt_offset/root/ORG_hips/ORG_spine/ORG_chest/ORG_shoulder_L/ORG_elbow_L/ORG_hand_L/ORG_f_pinky_01_L
+    m_Weight: 1
+  - m_Path: Main/jnt_offset/root/ORG_hips/ORG_spine/ORG_chest/ORG_shoulder_L/ORG_elbow_L/ORG_hand_L/ORG_f_pinky_01_L/ORG_f_pinky_02_L
+    m_Weight: 1
+  - m_Path: Main/jnt_offset/root/ORG_hips/ORG_spine/ORG_chest/ORG_shoulder_L/ORG_elbow_L/ORG_hand_L/ORG_f_pinky_01_L/ORG_f_pinky_02_L/ORG_f_pinky_03_L
+    m_Weight: 1
+  - m_Path: Main/jnt_offset/root/ORG_hips/ORG_spine/ORG_chest/ORG_shoulder_L/ORG_elbow_L/ORG_hand_L/ORG_f_pinky_01_L/ORG_f_pinky_02_L/ORG_f_pinky_03_L/ORG_f_pinky_04_L
+    m_Weight: 1
+  - m_Path: Main/jnt_offset/root/ORG_hips/ORG_spine/ORG_chest/ORG_shoulder_L/ORG_elbow_L/ORG_hand_L/ORG_f_ring_01_L
+    m_Weight: 1
+  - m_Path: Main/jnt_offset/root/ORG_hips/ORG_spine/ORG_chest/ORG_shoulder_L/ORG_elbow_L/ORG_hand_L/ORG_f_ring_01_L/ORG_f_ring_02_L
+    m_Weight: 1
+  - m_Path: Main/jnt_offset/root/ORG_hips/ORG_spine/ORG_chest/ORG_shoulder_L/ORG_elbow_L/ORG_hand_L/ORG_f_ring_01_L/ORG_f_ring_02_L/ORG_f_ring_03_L
+    m_Weight: 1
+  - m_Path: Main/jnt_offset/root/ORG_hips/ORG_spine/ORG_chest/ORG_shoulder_L/ORG_elbow_L/ORG_hand_L/ORG_f_ring_01_L/ORG_f_ring_02_L/ORG_f_ring_03_L/ORG_f_ring_04_L
+    m_Weight: 1
+  - m_Path: Main/jnt_offset/root/ORG_hips/ORG_spine/ORG_chest/ORG_shoulder_L/ORG_elbow_L/ORG_hand_L/ORG_thumb_01_L
+    m_Weight: 1
+  - m_Path: Main/jnt_offset/root/ORG_hips/ORG_spine/ORG_chest/ORG_shoulder_L/ORG_elbow_L/ORG_hand_L/ORG_thumb_01_L/ORG_thumb_02_L
+    m_Weight: 1
+  - m_Path: Main/jnt_offset/root/ORG_hips/ORG_spine/ORG_chest/ORG_shoulder_L/ORG_elbow_L/ORG_hand_L/ORG_thumb_01_L/ORG_thumb_02_L/ORG_thumb_03_L
+    m_Weight: 1
+  - m_Path: Main/jnt_offset/root/ORG_hips/ORG_spine/ORG_chest/ORG_shoulder_L/ORG_elbow_L/ORG_hand_L/ORG_thumb_01_L/ORG_thumb_02_L/ORG_thumb_03_L/ORG_thumb_04_L
+    m_Weight: 1
+  - m_Path: Main/jnt_offset/root/ORG_hips/ORG_spine/ORG_chest/ORG_shoulder_R
+    m_Weight: 1
+  - m_Path: Main/jnt_offset/root/ORG_hips/ORG_spine/ORG_chest/ORG_shoulder_R/ORG_elbow_R
+    m_Weight: 1
+  - m_Path: Main/jnt_offset/root/ORG_hips/ORG_spine/ORG_chest/ORG_shoulder_R/ORG_elbow_R/ORG_hand_R
+    m_Weight: 1
+  - m_Path: Main/jnt_offset/root/ORG_hips/ORG_spine/ORG_chest/ORG_shoulder_R/ORG_elbow_R/ORG_hand_R/ORG_f_index_01_R
+    m_Weight: 1
+  - m_Path: Main/jnt_offset/root/ORG_hips/ORG_spine/ORG_chest/ORG_shoulder_R/ORG_elbow_R/ORG_hand_R/ORG_f_index_01_R/ORG_f_index_02_R
+    m_Weight: 1
+  - m_Path: Main/jnt_offset/root/ORG_hips/ORG_spine/ORG_chest/ORG_shoulder_R/ORG_elbow_R/ORG_hand_R/ORG_f_index_01_R/ORG_f_index_02_R/ORG_f_index_03_R
+    m_Weight: 1
+  - m_Path: Main/jnt_offset/root/ORG_hips/ORG_spine/ORG_chest/ORG_shoulder_R/ORG_elbow_R/ORG_hand_R/ORG_f_index_01_R/ORG_f_index_02_R/ORG_f_index_03_R/ORG_f_index_04_R
+    m_Weight: 1
+  - m_Path: Main/jnt_offset/root/ORG_hips/ORG_spine/ORG_chest/ORG_shoulder_R/ORG_elbow_R/ORG_hand_R/ORG_f_pinky_01_R
+    m_Weight: 1
+  - m_Path: Main/jnt_offset/root/ORG_hips/ORG_spine/ORG_chest/ORG_shoulder_R/ORG_elbow_R/ORG_hand_R/ORG_f_pinky_01_R/ORG_f_pinky_02_R
+    m_Weight: 1
+  - m_Path: Main/jnt_offset/root/ORG_hips/ORG_spine/ORG_chest/ORG_shoulder_R/ORG_elbow_R/ORG_hand_R/ORG_f_pinky_01_R/ORG_f_pinky_02_R/ORG_f_pinky_03_R
+    m_Weight: 1
+  - m_Path: Main/jnt_offset/root/ORG_hips/ORG_spine/ORG_chest/ORG_shoulder_R/ORG_elbow_R/ORG_hand_R/ORG_f_pinky_01_R/ORG_f_pinky_02_R/ORG_f_pinky_03_R/ORG_f_pinky_04_R
+    m_Weight: 1
+  - m_Path: Main/jnt_offset/root/ORG_hips/ORG_spine/ORG_chest/ORG_shoulder_R/ORG_elbow_R/ORG_hand_R/ORG_f_ring_01_R
+    m_Weight: 1
+  - m_Path: Main/jnt_offset/root/ORG_hips/ORG_spine/ORG_chest/ORG_shoulder_R/ORG_elbow_R/ORG_hand_R/ORG_f_ring_01_R/ORG_f_ring_02_R
+    m_Weight: 1
+  - m_Path: Main/jnt_offset/root/ORG_hips/ORG_spine/ORG_chest/ORG_shoulder_R/ORG_elbow_R/ORG_hand_R/ORG_f_ring_01_R/ORG_f_ring_02_R/ORG_f_ring_03_R
+    m_Weight: 1
+  - m_Path: Main/jnt_offset/root/ORG_hips/ORG_spine/ORG_chest/ORG_shoulder_R/ORG_elbow_R/ORG_hand_R/ORG_f_ring_01_R/ORG_f_ring_02_R/ORG_f_ring_03_R/ORG_f_ring_04_R
+    m_Weight: 1
+  - m_Path: Main/jnt_offset/root/ORG_hips/ORG_spine/ORG_chest/ORG_shoulder_R/ORG_elbow_R/ORG_hand_R/ORG_thumb_01_R
+    m_Weight: 1
+  - m_Path: Main/jnt_offset/root/ORG_hips/ORG_spine/ORG_chest/ORG_shoulder_R/ORG_elbow_R/ORG_hand_R/ORG_thumb_01_R/ORG_thumb_02_R
+    m_Weight: 1
+  - m_Path: Main/jnt_offset/root/ORG_hips/ORG_spine/ORG_chest/ORG_shoulder_R/ORG_elbow_R/ORG_hand_R/ORG_thumb_01_R/ORG_thumb_02_R/ORG_thumb_03_R
+    m_Weight: 1
+  - m_Path: Main/jnt_offset/root/ORG_hips/ORG_spine/ORG_chest/ORG_shoulder_R/ORG_elbow_R/ORG_hand_R/ORG_thumb_01_R/ORG_thumb_02_R/ORG_thumb_03_R/ORG_thumb_04_R
+    m_Weight: 1
+  - m_Path: Main/jnt_offset/root/ORG_hips/ORG_thigh_L
+    m_Weight: 1
+  - m_Path: Main/jnt_offset/root/ORG_hips/ORG_thigh_L/ORG_knee_L
+    m_Weight: 1
+  - m_Path: Main/jnt_offset/root/ORG_hips/ORG_thigh_L/ORG_knee_L/ORG_foot_L
+    m_Weight: 1
+  - m_Path: Main/jnt_offset/root/ORG_hips/ORG_thigh_L/ORG_knee_L/ORG_foot_L/ORG_ball_L
+    m_Weight: 1
+  - m_Path: Main/jnt_offset/root/ORG_hips/ORG_thigh_L/ORG_knee_L/ORG_foot_L/ORG_ball_L/ORG_toe_L
+    m_Weight: 1
+  - m_Path: Main/jnt_offset/root/ORG_hips/ORG_thigh_R
+    m_Weight: 1
+  - m_Path: Main/jnt_offset/root/ORG_hips/ORG_thigh_R/ORG_knee_R
+    m_Weight: 1
+  - m_Path: Main/jnt_offset/root/ORG_hips/ORG_thigh_R/ORG_knee_R/ORG_foot_R
+    m_Weight: 1
+  - m_Path: Main/jnt_offset/root/ORG_hips/ORG_thigh_R/ORG_knee_R/ORG_foot_R/ORG_ball_R
+    m_Weight: 1
+  - m_Path: Main/jnt_offset/root/ORG_hips/ORG_thigh_R/ORG_knee_R/ORG_foot_R/ORG_ball_R/ORG_toe_R
+    m_Weight: 1
